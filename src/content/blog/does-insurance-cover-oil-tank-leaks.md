@@ -6,7 +6,7 @@ metaDescription: "Does insurance cover oil tank leaks? Learn what NB home polici
 primaryKeyword: "does insurance cover oil tank leaks"
 secondaryKeywords: "home insurance oil tank leak, oil tank leak coverage New Brunswick, oil spill cleanup insurance, oil tank age insurance rules"
 publishedDate: "2026-08-10"
-tag: "Well Care"
+tag: "Insurance"
 subtitle: "Picture this. Your home insurance renewal shows up in the mail, and tucked inside is a letter saying your oil tank is too old and you have 30 days to replace it or lose your coverage."
 canonical: "https://hubcitytank.ca/blog/does-insurance-cover-oil-tank-leaks/"
 faq:

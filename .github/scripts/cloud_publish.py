@@ -14,19 +14,36 @@ from pathlib import Path
 
 
 TAG_MAP = {
-    'repair': 'Pump Repair', 'fix': 'Pump Repair', 'troubleshoot': 'Pump Repair',
-    'replace': 'Pump Replacement', 'replacement': 'Pump Replacement', 'lifespan': 'Pump Replacement',
-    'pressure tank': 'Pressure Tanks', 'pressure switch': 'Pressure Tanks', 'bladder': 'Pressure Tanks',
-    'no water': 'Emergency', 'emergency': 'Emergency', 'stopped working': 'Emergency',
-    'cost': 'Cost Guide', 'price': 'Cost Guide', 'worth': 'Cost Guide',
-    'water quality': 'Water Quality', 'sediment': 'Water Quality', 'smell': 'Water Quality',
-    'taste': 'Water Quality', 'test': 'Water Quality', 'filter': 'Water Quality', 'softener': 'Water Quality',
+    # ordered most-specific first: the first fragment found in the text wins
+    'insurance': 'Insurance', 'insurer': 'Insurance', 'coverage': 'Insurance',
+    'non-renew': 'Insurance', 'claim': 'Insurance',
+    'cost': 'Cost Guide', 'price': 'Cost Guide', 'worth': 'Cost Guide', 'quote': 'Cost Guide',
+    'buried': 'Buried Tanks', 'underground': 'Buried Tanks', 'excavat': 'Buried Tanks',
+    'soil': 'Buried Tanks', 'abandon': 'Buried Tanks',
+    'remov': 'Tank Removal', 'disposal': 'Tank Removal', 'decommission': 'Tank Removal',
+    'heat pump': 'Tank Removal', 'conversion': 'Tank Removal',
+    'replace': 'Tank Replacement', 'replacement': 'Tank Replacement', 'lifespan': 'Tank Replacement',
+    'how long': 'Tank Replacement', 'new tank': 'Tank Replacement',
+    'leak': 'Leaks & Spills', 'spill': 'Leaks & Spills', 'oil smell': 'Leaks & Spills',
+    'contamina': 'Leaks & Spills', 'wet spot': 'Leaks & Spills',
+    'granby': 'Tanks 101', 'roth': 'Tanks 101', 'fiberglass': 'Tanks 101',
+    'double-wall': 'Tanks 101', 'double wall': 'Tanks 101',
+    'vent': 'Tanks 101', 'whistle': 'Tanks 101', 'gauge': 'Tanks 101', 'parts': 'Tanks 101',
+    'sizes': 'Tanks 101', 'indoor': 'Tanks 101', 'outdoor': 'Tanks 101',
+    'vs diesel': 'Tanks 101', 'stand': 'Tanks 101', 'pad': 'Tanks 101',
+    'contractor': 'Hiring a Pro', 'hiring': 'Hiring a Pro', 'hire': 'Hiring a Pro',
+    'how old': 'Tank Replacement', 'tank age': 'Tank Replacement',
+    'moving': 'Tank Removal',
+    'regulation': 'Regulations', 'permit': 'Regulations', 'code': 'Regulations',
+    'csa': 'Regulations', 'licence': 'Regulations', 'license': 'Regulations', 'landlord': 'Regulations',
     'winter': 'Maintenance', 'maintenance': 'Maintenance', 'inspect': 'Maintenance',
-    'freeze': 'Maintenance', 'frozen': 'Maintenance',
-    'drill': 'Wells 101', 'depth': 'Wells 101', 'how deep': 'Wells 101', 'casing': 'Wells 101',
-    'permit': 'Regulations', 'law': 'Regulations', 'rights': 'Regulations', 'license': 'Regulations',
-    'buy': 'Buying a Home', 'real estate': 'Buying a Home', 'inspection when buying': 'Buying a Home',
-    'irrigation': 'Irrigation', 'orchard': 'Irrigation', 'sprinkler': 'Irrigation',
+    'sludge': 'Maintenance', 'water in': 'Maintenance', 'rust': 'Maintenance',
+    'corrosion': 'Maintenance', 'snow': 'Maintenance', 'ran out': 'Maintenance',
+    'furnace': 'Maintenance', 'flood': 'Maintenance', 'leaning': 'Maintenance',
+    'sinking': 'Maintenance', 'summer': 'Maintenance',
+    'buying': 'Buying & Selling', 'selling': 'Buying & Selling', 'real estate': 'Buying & Selling',
+    'sell ': 'Buying & Selling',
+    'emergency': 'Emergency', 'urgent': 'Emergency',
 }
 
 
@@ -35,14 +52,14 @@ def guess_tag(title, keyword):
     for fragment, tag in TAG_MAP.items():
         if fragment in text:
             return tag
-    return 'Well Care'
+    return 'Oil Tank Basics'
 
 
 def make_nav_title(title):
     nav = re.sub(r'\s*\|.*$', '', title)
     nav = re.sub(r'\s*[-–—]\s*Hub City Tank Co.*$', '', nav)
     nav = re.sub(r'\s*\(20\d{2}.*?\)', '', nav)
-    nav = re.sub(r'\s*Wenatchee:?\s*', ' ', nav).strip()
+    nav = re.sub(r'\s*Moncton:?\s*', ' ', nav).strip()
     if len(nav) <= 30:
         return nav
     words = nav.split()
@@ -141,7 +158,7 @@ def extract_faq(body):
 
 
 def clean_body_links(body):
-    body = re.sub(r'https?://wenatcheewellpros\.com/', '/', body)
+    body = re.sub(r'https?://hubcitytank\.ca/', '/', body)
     body = re.sub(r'(\(/[^)]*?)\.html\)', r'\1/)', body)
     return body
 

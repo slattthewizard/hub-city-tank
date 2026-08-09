@@ -6,7 +6,7 @@ metaDescription: "A leaking oil tank almost never gets a safe repair. Learn what
 primaryKeyword: "can a leaking oil tank be repaired"
 secondaryKeywords: "leaking oil tank repair, fix a leaking oil tank, oil tank repair or replace, patch an oil tank, oil tank leak repair cost"
 publishedDate: "2026-08-10"
-tag: "Pump Repair"
+tag: "Tank Replacement"
 subtitle: "You spotted a dark drip under your oil tank this morning, and now you're standing in the basement asking the question every homeowner asks first: can a leaking oil tank be repaired? It feels like the..."
 canonical: "https://hubcitytank.ca/blog/oil-tank-repair-or-replace/"
 faq:

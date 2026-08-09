@@ -6,7 +6,7 @@ metaDescription: "Water in your oil tank causes rust, sludge and winter breakdow
 primaryKeyword: "water in oil tank"
 secondaryKeywords: "water in heating oil tank, how to get water out of oil tank, condensation in oil tank, oil tank water removal"
 publishedDate: "2026-08-10"
-tag: "Well Care"
+tag: "Maintenance"
 subtitle: "Half a cup of water sitting in the bottom of your oil tank can shut your furnace down on the coldest night of February."
 canonical: "https://hubcitytank.ca/blog/water-in-oil-tank/"
 faq:

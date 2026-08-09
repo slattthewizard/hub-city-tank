@@ -6,7 +6,7 @@ metaDescription: "How long do oil tanks last? Real lifespans for steel, fibregla
 primaryKeyword: "how long do oil tanks last"
 secondaryKeywords: "oil tank lifespan, average life of an oil tank, when to replace oil tank, how long does an outdoor oil tank last, steel oil tank life expectancy"
 publishedDate: "2026-08-10"
-tag: "Pump Replacement"
+tag: "Tank Replacement"
 subtitle: "Here's a number that catches most homeowners off guard: the average oil tank in Greater Moncton gets replaced at around 15 years old, and it's usually an insurance company, not a leak, that makes the..."
 canonical: "https://hubcitytank.ca/blog/how-long-do-oil-tanks-last/"
 faq:

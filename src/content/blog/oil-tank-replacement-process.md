@@ -6,7 +6,7 @@ metaDescription: "Wondering what happens during an oil tank replacement? Our Mon
 primaryKeyword: "oil tank replacement process"
 secondaryKeywords: "oil tank replacement steps, how oil tank replacement works, replacing a home heating oil tank, oil tank swap timeline, new oil tank installation"
 publishedDate: "2026-08-10"
-tag: "Pump Replacement"
+tag: "Tank Replacement"
 subtitle: "Your insurance company gives you 30 days to replace your oil tank, and you've never watched anyone do it."
 canonical: "https://hubcitytank.ca/blog/oil-tank-replacement-process/"
 faq:

@@ -6,7 +6,7 @@ metaDescription: "Smell heating oil in your basement? Here's what causes it, wha
 primaryKeyword: "oil smell in basement"
 secondaryKeywords: "basement smells like oil, heating oil smell in house, furnace oil smell in basement, oil odour in basement, why does my basement smell like oil"
 publishedDate: "2026-08-10"
-tag: "Water Quality"
+tag: "Leaks & Spills"
 subtitle: "You head downstairs for a load of laundry and it hits you halfway down the stairs. That sharp, diesel-like smell that wasn't there last week."
 canonical: "https://hubcitytank.ca/blog/oil-smell-in-basement/"
 faq:

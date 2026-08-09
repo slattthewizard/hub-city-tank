@@ -6,7 +6,7 @@ metaDescription: "A leaking oil tank is an emergency. Here's what to do in the f
 primaryKeyword: "leaking oil tank what to do"
 secondaryKeywords: "oil tank leak emergency, heating oil spill cleanup, oil tank leaking in basement, report oil spill New Brunswick, home heating oil leak"
 publishedDate: "2026-08-10"
-tag: "Well Care"
+tag: "Leaks & Spills"
 subtitle: "One litre of heating oil can make a million litres of groundwater unfit to drink. That's the number environmental officials use, and it's the reason a drip the size of a loonie under your tank..."
 canonical: "https://hubcitytank.ca/blog/oil-tank-leaking-what-to-do/"
 faq:
