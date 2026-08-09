@@ -1,0 +1,6 @@
+# Hub City Tank Co — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hubcitytank.ca/sitemap-index.xml
