@@ -121,7 +121,8 @@
   },
   {
     "draft": "drafts/oil-heat-moncton-2026-08-09.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-26T16:09:39.973919Z"
   },
   {
     "draft": "drafts/oil-heat-vs-heat-pump-cost-2026-08-09.md",
