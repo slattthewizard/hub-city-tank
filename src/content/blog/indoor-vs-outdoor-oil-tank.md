@@ -17,7 +17,7 @@ faq:
   - question: "Will my insurance company accept either tank location?"
     answer: "Most insurers accept both, but they usually apply stricter age limits to outdoor tanks because those fail younger. Some also require double-wall or fibreglass construction for certain setups. Check your renewal documents or ask your broker before choosing, and keep your installation paperwork, because we've seen it settle insurance questions years later."
   - question: "How much does it cost to move an oil tank from outside to inside?"
-    answer: "In Greater Moncton, expect roughly $3,000 to $4,500 CAD depending on oil line length, how much fuel needs transferring, and disposal of the old tank. That's more than a like-for-like swap, but the longer indoor lifespan usually pays the difference back. We'll price both options in the same free written estimate so you can compare them directly."
+    answer: "In Greater Moncton, expect roughly $3,000 to $5,500 CAD depending on oil line length, how much fuel needs transferring, and disposal of the old tank. That's more than a like-for-like swap, but the longer indoor lifespan usually pays the difference back. We'll price both options in the same free written estimate so you can compare them directly."
 ---
 The insurance renewal letter shows up, it says your oil tank has to go, and suddenly you're staring down a question you've never once thought about. Should the new tank sit in the basement, or outside against the wall?
 
@@ -67,7 +67,7 @@ Here's how the two options typically compare for homes in Greater Moncton. Price
 
 | Factor | Indoor tank | Outdoor tank |
 |---|---|---|
-| Typical installed cost | $2,800 to $4,200 | $2,600 to $3,900 |
+| Typical installed cost | $3,400 to $5,500 | $3,000 to $4,800 |
 | Typical lifespan | 20 to 25 years | 10 to 15 years |
 | Weather and snow exposure | None | Constant |
 | Internal condensation risk | Low | Moderate to high |
@@ -118,4 +118,4 @@ Most insurers accept both, but they usually apply stricter age limits to outdoor
 
 ### How much does it cost to move an oil tank from outside to inside?
 
-In Greater Moncton, expect roughly $3,000 to $4,500 CAD depending on oil line length, how much fuel needs transferring, and disposal of the old tank. That's more than a like-for-like swap, but the longer indoor lifespan usually pays the difference back. We'll price both options in the same free written estimate so you can compare them directly.
+In Greater Moncton, expect roughly $3,000 to $5,500 CAD depending on oil line length, how much fuel needs transferring, and disposal of the old tank. That's more than a like-for-like swap, but the longer indoor lifespan usually pays the difference back. We'll price both options in the same free written estimate so you can compare them directly.

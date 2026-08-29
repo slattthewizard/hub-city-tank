@@ -66,7 +66,7 @@ Here's how the summer-fill decision tends to shake out in dollars around our ser
 | Topping up 700 litres in July | Often $100 to $200 less than the same fill in January |
 | No-heat service call for a sludge-clogged filter | $250 to $600 |
 | Oil line and filter work after sludge damage | $400 to $900 |
-| Replacing a tank that corroded from the inside | $2,800 to $4,500 installed |
+| Replacing a tank that corroded from the inside | $3,500 to $6,400 installed |
 | Cleaning up a leak that reaches soil | $10,000 and up, sometimes far beyond |
 
 That last row isn't a scare tactic. It's the reason insurance companies send those letters about tank age, and it's why the cheapest item on the list, the summer fill, is the one we push hardest.

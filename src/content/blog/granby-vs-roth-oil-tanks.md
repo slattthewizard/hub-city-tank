@@ -10,7 +10,7 @@ tag: "Tanks 101"
 subtitle: "Two tank brands sit in almost every oil-heated basement from Moncton to Sackville, and roughly $1,500 separates them."
 canonical: "https://hubcitytank.ca/blog/granby-vs-roth-oil-tanks/"
 faq:
-  - question: "Is a Roth tank worth the extra $1,200 to $1,600 over a Granby?"
+  - question: "Is a Roth tank worth the extra $1,000 to $1,500 over a Granby?"
     answer: "It depends on where the tank sits and how long you're staying. For outdoor tanks, coastal homes, damp basements, or owners planning to stay 10+ years, the Roth's rust-proof inner tank and 30-year warranty usually justify the premium. For a dry basement in a house you'll sell within a few years, a new Granby double-bottom tank is the smarter spend."
   - question: "How long do Granby and Roth oil tanks last in New Brunswick?"
     answer: "A properly installed Granby steel tank typically lasts 15 to 25 years indoors, less for outdoor tanks near salt air. Roth tanks carry a 30-year limited warranty and the polyethylene inner tank can't rust, so they routinely outlast their steel cousins. In both cases, installation quality and moisture matter more than the badge on the tank."
@@ -43,7 +43,7 @@ That last point matters, because steel tanks almost never rust from the outside 
 
 Here's what Granby gets you:
 
-- **Lower cost.** A standard Granby runs $2,600 to $3,200 installed in the Moncton area, including removal of the old tank in most cases.
+- **Lower cost.** A standard Granby runs $3,000 to $4,500 installed in the Moncton area, including removal of the old tank in most cases.
 - **Proven design.** Techs know these tanks inside and out. Parts, gauges, and fittings are everywhere.
 - **Decent lifespan.** A properly installed Granby in a dry basement typically gives you 15 to 25 years.
 - **Insurance acceptance.** Nearly every insurer will happily cover a brand new Granby, especially a double-bottom model.
@@ -63,7 +63,7 @@ The other things homeowners like:
 - **No internal corrosion worries.** Polyethylene doesn't care about condensation.
 - **Insurance leverage.** Some insurers offer easier approvals, and occasionally better terms, for double-wall tanks. If your insurer is being difficult, a Roth often ends the conversation.
 
-The trade-off is the price. Expect $3,900 to $4,800 installed in Greater Moncton, depending on size and how much piping needs to change. If you want the deeper dive on how containment tanks work, we wrote one here: [double-wall oil tanks explained](/blog/double-wall-oil-tanks/).
+The trade-off is the price. Expect $4,500 to $5,500 installed in Greater Moncton, depending on size and how much piping needs to change. If you want the deeper dive on how containment tanks work, we wrote one here: [double-wall oil tanks explained](/blog/double-wall-oil-tanks/).
 
 ## Granby vs Roth Oil Tank Costs: The Numbers Side by Side
 
@@ -71,7 +71,7 @@ Here's the honest side-by-side, with typical installed prices we see across Monc
 
 | | Granby (steel) | Roth (double-wall) |
 |---|---|---|
-| Typical installed cost | $2,600 to $3,200 | $3,900 to $4,800 |
+| Typical installed cost | $3,000 to $4,500 | $4,500 to $5,500 |
 | Construction | Welded steel, single wall or double bottom | Polyethylene inner tank, galvanized steel outer shell |
 | Expected lifespan | 15 to 25 years | 30+ years |
 | Typical warranty | About 10 years standard, longer on 2-in-1 models | 30-year limited warranty |
@@ -116,7 +116,7 @@ Otherwise, when you're ready for numbers, we'll quote both tanks for your house 
 
 ## Frequently Asked Questions
 
-### Is a Roth tank worth the extra $1,200 to $1,600 over a Granby?
+### Is a Roth tank worth the extra $1,000 to $1,500 over a Granby?
 
 It depends on where the tank sits and how long you're staying. For outdoor tanks, coastal homes, damp basements, or owners planning to stay 10+ years, the Roth's rust-proof inner tank and 30-year warranty usually justify the premium. For a dry basement in a house you'll sell within a few years, a new Granby double-bottom tank is the smarter spend.
 

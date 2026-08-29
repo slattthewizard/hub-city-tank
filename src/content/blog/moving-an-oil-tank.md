@@ -13,7 +13,7 @@ faq:
   - question: "Can I move my oil tank myself?"
     answer: "You can legally shift an empty, disconnected tank shell across your yard, but everything before and after that point is licensed fuel work. Pumping out oil, disconnecting lines, re-piping the fill and vent, and restarting the burner all need a licensed technician, and your insurer will want proof it was done properly. Given that the DIY portion is the cheapest part of the job anyway, there's very little money to save and a lot to lose. If you smell oil at any point, stop and call a professional right away."
   - question: "How much does it cost to move an oil tank in Moncton?"
-    answer: "A straightforward short move of a healthy tank usually runs $700 to $1,500 in the Greater Moncton area. Moving a tank to a different side of the house, with new fill, vent, and oil line runs, typically lands between $1,100 and $1,800. If the tank is old enough that replacement makes more sense, a new tank installed at the new location generally runs $3,200 to $5,500 depending on the tank and the site."
+    answer: "A straightforward short move of a healthy tank usually runs $700 to $1,500 in the Greater Moncton area. Moving a tank to a different side of the house, with new fill, vent, and oil line runs, typically lands between $1,100 and $1,800. If the tank is old enough that replacement makes more sense, a new tank installed at the new location generally runs $3,000 to $5,500 depending on the tank and the site."
   - question: "Do I need a permit or an inspection to move an oil tank in New Brunswick?"
     answer: "The installation has to meet the CSA B139 code, the fuel connections must be done by a licensed technician, and your insurance company should be notified with documentation of the work. Requirements can vary by municipality and insurer, so check before the job starts rather than after. A reputable installer will handle the code side and give you the paperwork your insurer wants to see."
   - question: "Can you move a tank that still has oil in it?"
@@ -80,8 +80,8 @@ Every yard is different, but here's what relocation work typically runs in our s
 | Short move, same wall, under 3 metres | $700 to $1,100 | Pump out, new base, reset, reconnect, restart |
 | Move to a different side of the house | $1,100 to $1,800 | Above, plus new fill, vent, and oil line runs |
 | Indoor tank moved to a new basement spot | $900 to $1,500 | Pump out, reset, re-pipe, careful spill protection |
-| Indoor tank replaced with new outdoor tank | $3,500 to $5,500 | New tank, stand, pad, lines, old tank removal |
-| Relocation that turns into replacement | $3,200 to $5,000 | New tank installed at the new spot, old tank gone |
+| Indoor tank replaced with new outdoor tank | $3,500 to $6,400 | New tank, stand, pad, lines, old tank removal |
+| Relocation that turns into replacement | $3,500 to $6,400 | New tank installed at the new spot, old tank gone |
 
 A few things push jobs toward the high end. Long oil line runs, concrete work, tight access for equipment, and winter conditions all add cost. So does discovering mid-job that the tank bottom is thinner than anyone hoped.
 
@@ -126,7 +126,7 @@ You can legally shift an empty, disconnected tank shell across your yard, but ev
 
 ### How much does it cost to move an oil tank in Moncton?
 
-A straightforward short move of a healthy tank usually runs $700 to $1,500 in the Greater Moncton area. Moving a tank to a different side of the house, with new fill, vent, and oil line runs, typically lands between $1,100 and $1,800. If the tank is old enough that replacement makes more sense, a new tank installed at the new location generally runs $3,200 to $5,500 depending on the tank and the site.
+A straightforward short move of a healthy tank usually runs $700 to $1,500 in the Greater Moncton area. Moving a tank to a different side of the house, with new fill, vent, and oil line runs, typically lands between $1,100 and $1,800. If the tank is old enough that replacement makes more sense, a new tank installed at the new location generally runs $3,000 to $5,500 depending on the tank and the site.
 
 ### Do I need a permit or an inspection to move an oil tank in New Brunswick?
 

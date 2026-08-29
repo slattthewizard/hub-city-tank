@@ -89,7 +89,7 @@ Prices vary with access, parts, and timing, but here's what homeowners around Gr
 | Frozen oil line | Thaw, then insulate or reroute | $200 to $700 |
 | Water or sludge in tank | Tank cleaning or treatment | $250 to $600 |
 | Failing fuel pump | Pump replacement | $400 to $800 |
-| Tank at end of life | Full tank replacement | $2,800 to $4,500 |
+| Tank at end of life | Full tank replacement | $3,500 to $6,400 |
 
 Notice the pattern in that table. Every fix in the top rows is cheap compared to the bottom row, but if the tank itself is the source of the sludge, rust, or water, the small fixes only buy time. Paying $300 twice a winter to treat symptoms of a dying tank is worse math than replacing it once.
 

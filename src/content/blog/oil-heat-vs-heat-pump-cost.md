@@ -11,7 +11,7 @@ subtitle: "Furnace oil in New Brunswick has been sitting around $1.40 to $1.50 a
 canonical: "https://hubcitytank.ca/blog/oil-heat-vs-heat-pump-cost/"
 faq:
   - question: "Is it cheaper to heat with oil or a heat pump in New Brunswick?"
-    answer: "A cold-climate heat pump is cheaper to run for most NB homes, typically $1,300 to $1,800 a year in electricity versus $3,000 to $3,800 for oil. Oil is much cheaper up front, since a new tank costs $2,400 to $3,500 while a full heat pump conversion can top $20,000. Over ten years, a well-sized heat pump usually comes out ahead, especially with rebates. The gap shrinks for smaller homes or homes that need lots of backup heat."
+    answer: "A cold-climate heat pump is cheaper to run for most NB homes, typically $1,300 to $1,800 a year in electricity versus $3,000 to $3,800 for oil. Oil is much cheaper up front, since a new tank costs $3,000 to $5,500 while a full heat pump conversion can top $20,000. Over ten years, a well-sized heat pump usually comes out ahead, especially with rebates. The gap shrinks for smaller homes or homes that need lots of backup heat."
   - question: "Should I replace my oil tank if I'm planning to switch to a heat pump?"
     answer: "If the switch is happening this year and your tank is sound, you can often wait. But if your tank is past 15 to 20 years old, showing rust, or flagged by your insurer, replace it rather than gambling on a leak. A leak can cost tens of thousands in cleanup and would wipe out a decade of heat pump savings overnight. A new tank also keeps the hybrid option open, which is what most Greater Moncton homes choose anyway."
   - question: "Can a heat pump handle a New Brunswick winter on its own?"
@@ -31,7 +31,7 @@ A typical Greater Moncton home heated with oil burns somewhere between 1,800 and
 
 That same home heated mostly by cold-climate heat pumps might add $1,300 to $1,800 a year to its power bill. That's roughly half the running cost of oil, sometimes better.
 
-But running cost is only half the story. A fully ducted cold-climate heat pump system can cost $16,000 to $25,000 installed. A new oil tank, by comparison, usually lands between $2,400 and $3,500. And on the coldest nights of a New Brunswick February, plenty of heat pump owners are very glad they kept their oil furnace as backup.
+But running cost is only half the story. A fully ducted cold-climate heat pump system can cost $16,000 to $25,000 installed. A new oil tank, by comparison, usually lands between $3,000 and $5,500. And on the coldest nights of a New Brunswick February, plenty of heat pump owners are very glad they kept their oil furnace as backup.
 
 If this decision got dropped in your lap by an insurance letter about an old tank, don't panic and don't rush into a $20,000 conversion just to make the letter go away. Call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact) on the tank side of the equation first. Once you know what a new tank actually costs, the rest of the math gets a lot easier.
 
@@ -43,9 +43,9 @@ Oil heat has three cost buckets: fuel, maintenance, and the equipment itself.
 
 **Maintenance is steady and modest.** A yearly tune-up runs $150 to $250 and keeps your furnace burning at its rated efficiency, usually 82 to 87 percent for units installed in the last two decades. Skip the tune-up and a sooted-up burner can quietly eat an extra 10 percent of your fuel.
 
-**Equipment is where oil shines.** If your furnace is in decent shape, keeping oil heat alive usually means replacing the tank once every 15 to 25 years. A new Granby steel or Roth double-wall tank, installed and inspected, typically runs $2,400 to $3,500 in our area. Our [oil tank replacement service in Moncton](/oil-tank-replacement-moncton/) handles the whole swap in a day, including disposal of the old tank. If you're wondering how much life your current tank has left, our guide on [how long oil tanks last](/blog/how-long-do-oil-tanks-last/) breaks down the warning signs.
+**Equipment is where oil shines.** If your furnace is in decent shape, keeping oil heat alive usually means replacing the tank once every 15 to 25 years. A new Granby steel or Roth double-wall tank, installed and inspected, typically runs $3,000 to $5,500 in our area. Our [oil tank replacement service in Moncton](/oil-tank-replacement-moncton/) handles the whole swap in a day, including disposal of the old tank. If you're wondering how much life your current tank has left, our guide on [how long oil tanks last](/blog/how-long-do-oil-tanks-last/) breaks down the warning signs.
 
-Add it up and a realistic yearly cost for oil heat in Greater Moncton is $3,000 to $3,800, with the tank replacement averaging out to another $150 or so per year over its life.
+Add it up and a realistic yearly cost for oil heat in Greater Moncton is $3,000 to $3,800, with the tank replacement averaging out to another $190 or so per year over its life.
 
 ## What a Heat Pump Costs to Run on NB Power Rates
 
@@ -67,7 +67,7 @@ Here's how the two options compare for a typical Greater Moncton home.
 |---|---|---|
 | Typical annual running cost | $3,000 to $3,800 | $1,300 to $1,800 |
 | Annual maintenance | $150 to $250 tune-up | $100 to $200 cleaning |
-| Typical install cost | $2,400 to $3,500 for a new tank | $4,000 to $5,500 per mini-split head; $16,000 to $25,000 ducted |
+| Typical install cost | $3,000 to $5,500 for a new tank | $4,000 to $5,500 per mini-split head; $16,000 to $25,000 ducted |
 | Performance at minus 25 | Full output, no drop | Output drops, backup heat needed |
 | Price stability | Swings with world oil markets | Regulated NB Power rates |
 | Equipment lifespan | Tank 15 to 25 years, furnace 20 to 25 years | 12 to 15 years |
@@ -109,7 +109,7 @@ And if you do eventually go all-electric, that old tank shouldn't just sit there
 
 ### Is it cheaper to heat with oil or a heat pump in New Brunswick?
 
-A cold-climate heat pump is cheaper to run for most NB homes, typically $1,300 to $1,800 a year in electricity versus $3,000 to $3,800 for oil. Oil is much cheaper up front, since a new tank costs $2,400 to $3,500 while a full heat pump conversion can top $20,000. Over ten years, a well-sized heat pump usually comes out ahead, especially with rebates. The gap shrinks for smaller homes or homes that need lots of backup heat.
+A cold-climate heat pump is cheaper to run for most NB homes, typically $1,300 to $1,800 a year in electricity versus $3,000 to $3,800 for oil. Oil is much cheaper up front, since a new tank costs $3,000 to $5,500 while a full heat pump conversion can top $20,000. Over ten years, a well-sized heat pump usually comes out ahead, especially with rebates. The gap shrinks for smaller homes or homes that need lots of backup heat.
 
 ### Should I replace my oil tank if I'm planning to switch to a heat pump?
 

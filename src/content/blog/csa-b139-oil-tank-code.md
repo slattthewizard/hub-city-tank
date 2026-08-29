@@ -75,7 +75,7 @@ A proper CSA B139 oil tank installation costs more than a bootleg one. That's tr
 
 | Shortcut on the install | What it saves up front | What it typically costs later |
 |---|---|---|
-| Patio stones instead of a proper pad | $300 to $600 | $2,800 to $4,000 tank replacement when it leans, plus regrade |
+| Patio stones instead of a proper pad | $300 to $600 | $3,500 to $6,400 tank replacement when it leans, plus regrade |
 | No vent whistle | $50 or less | Overfill spill, $10,000 to $100,000+ in cleanup |
 | Unprotected copper line under the slab | $150 to $300 | $1,200 to $2,500 line replacement, more if oil got into the slab |
 | Uncertified or second-hand tank | $800 to $1,500 | Insurance denial, forced replacement on the insurer's timeline |

@@ -17,7 +17,7 @@ faq:
   - question: "How do I find out how old an oil tank is?"
     answer: "Check the manufacturer's plate or sticker on the end of the tank, which lists the year it was built. If the label is missing or unreadable, delivery records, permits, or a professional assessment can narrow it down. Treat an undatable tank as an old tank until proven otherwise, because that's exactly how your insurer will treat it."
   - question: "Should I walk away from a house with a buried oil tank?"
-    answer: "Not automatically, but never buy blind. Make the offer conditional on a tank scan and, if a tank is found, on soil testing around it. A clean removal typically costs $3,000 to $8,000 and is very negotiable, while an untested tank leaves you holding unlimited risk, and that's the one deal structure you should refuse."
+    answer: "Not automatically, but never buy blind. Make the offer conditional on a tank scan and, if a tank is found, on soil testing around it. A clean removal typically costs $2,000 to $8,000 and is very negotiable, while an untested tank leaves you holding unlimited risk, and that's the one deal structure you should refuse."
 ---
 Would you sign a $300,000 mortgage without knowing whether the heating system could void your home insurance? That's exactly what happens every month across Greater Moncton, because buyers fall in love with the kitchen and never look twice at the steel tank in the basement.
 
@@ -87,10 +87,10 @@ Numbers make negotiation easier, so here's what tank work typically costs in Gre
 |---|---|---|
 | Reading the data plate and checking age | $0, takes minutes | You or your inspector |
 | Professional tank assessment with written report | Free from Hub City Tank Co | Buyer |
-| New above-ground tank, installed | $2,500 to $4,500 | Negotiable, often split |
+| New above-ground tank, installed | $3,000 to $5,500 | Negotiable, often split |
 | Old above-ground tank removal and disposal | $300 to $800 | Usually the seller |
 | Buried tank scan | $250 to $500 | Buyer |
-| Buried tank removal, no contamination | $3,000 to $8,000 | Seller, via negotiation |
+| Buried tank removal, no contamination | $2,000 to $8,000 | Seller, via negotiation |
 | Leaking buried tank with soil remediation | $10,000 to $100,000+ | Property owner at time of discovery |
 | Oil line replacement | $400 to $900 | Negotiable |
 
@@ -128,4 +128,4 @@ Check the manufacturer's plate or sticker on the end of the tank, which lists th
 
 ### Should I walk away from a house with a buried oil tank?
 
-Not automatically, but never buy blind. Make the offer conditional on a tank scan and, if a tank is found, on soil testing around it. A clean removal typically costs $3,000 to $8,000 and is very negotiable, while an untested tank leaves you holding unlimited risk, and that's the one deal structure you should refuse.
+Not automatically, but never buy blind. Make the offer conditional on a tank scan and, if a tank is found, on soil testing around it. A clean removal typically costs $2,000 to $8,000 and is very negotiable, while an untested tank leaves you holding unlimited risk, and that's the one deal structure you should refuse.

@@ -100,7 +100,7 @@ Got a number? Here's how it usually plays out with insurers around Greater Monct
 | --- | --- | --- |
 | Under 10 years | Standard renewal, no fuss | Photograph the label and file it with your policy |
 | 10 to 15 years | Some ask for an inspection | Check the tank each season and keep records of anything you fix |
-| 15 to 20 years | Many won't renew outdoor steel tanks | Start budgeting: replacement runs about $2,600 to $3,800 installed |
+| 15 to 20 years | Many won't renew outdoor steel tanks | Start budgeting: replacement runs about $3,500 to $6,400 installed |
 | 20+ years or unknown | Often treated as uninsurable | Replace or remove now, on your schedule instead of theirs |
 
 If the tank is young and healthy, your job is paperwork. Photograph the label, note the date in your phone, and send copies to your broker before anyone asks. Future you, standing in the same panic ten years from now, will be grateful.

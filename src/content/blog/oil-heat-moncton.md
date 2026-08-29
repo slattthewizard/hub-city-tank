@@ -15,7 +15,7 @@ faq:
   - question: "How much does oil heat cost per year in Moncton?"
     answer: "Most Greater Moncton homes burn 2,000 to 3,000 litres a year, which works out to roughly $3,000 to $4,500 at recent prices. Your number depends on the size and insulation of your home, your thermostat habits, and the winter itself. Adding a mini-split for the shoulder seasons typically cuts oil use by 25 to 40 percent."
   - question: "Will my insurance company drop me for having an oil tank?"
-    answer: "Not for having one, but possibly for having an old one. Many insurers in New Brunswick set age limits between 15 and 25 years and may require proof of age or an inspection at renewal. Replacing an aging tank, usually $2,600 to $4,500 installed, resolves the issue in almost every case. Keep your installation paperwork, because your broker will want it."
+    answer: "Not for having one, but possibly for having an old one. Many insurers in New Brunswick set age limits between 15 and 25 years and may require proof of age or an inspection at renewal. Replacing an aging tank, usually $3,500 to $6,400 installed, resolves the issue in almost every case. Keep your installation paperwork, because your broker will want it."
   - question: "Should I replace my oil tank or just switch to a heat pump?"
     answer: "It depends on the age of your furnace, how long you'll own the home, and your electrical service. If your furnace has years left, a tank replacement is the cheaper, faster fix and keeps your insurance happy. If both the furnace and tank are done, pricing out a conversion alongside rebates makes sense. We'll give you honest numbers for the tank side either way."
 ---
@@ -60,7 +60,7 @@ Here's how the common options stack up for an average older home in our area:
 | Heating setup | Typical upfront cost (CAD) | Typical annual heating cost | Best fit |
 |---|---|---|---|
 | Keep oil, tank and furnace in good shape | $0 | $3,000 to $4,500 | Newer tank, working furnace, tight budget |
-| Keep oil, replace an aging tank | $2,600 to $4,500 | Same as above | Tank 15+ years old, insurance pressure |
+| Keep oil, replace an aging tank | $3,500 to $6,400 | Same as above | Tank 15+ years old, insurance pressure |
 | Oil furnace plus one or two mini-splits | $4,000 to $9,000 on top of tank costs | $2,400 to $3,500 | Wants savings and backup heat both |
 | Full heat pump conversion, oil tank removed | $12,000 to $22,000 before rebates | $1,600 to $2,800 | Long ownership horizon, upgraded panel |
 
@@ -135,7 +135,7 @@ Most Greater Moncton homes burn 2,000 to 3,000 litres a year, which works out to
 
 ### Will my insurance company drop me for having an oil tank?
 
-Not for having one, but possibly for having an old one. Many insurers in New Brunswick set age limits between 15 and 25 years and may require proof of age or an inspection at renewal. Replacing an aging tank, usually $2,600 to $4,500 installed, resolves the issue in almost every case. Keep your installation paperwork, because your broker will want it.
+Not for having one, but possibly for having an old one. Many insurers in New Brunswick set age limits between 15 and 25 years and may require proof of age or an inspection at renewal. Replacing an aging tank, usually $3,500 to $6,400 installed, resolves the issue in almost every case. Keep your installation paperwork, because your broker will want it.
 
 ### Should I replace my oil tank or just switch to a heat pump?
 

@@ -92,8 +92,8 @@ Homeowners sometimes read all of the above and hear one thing: expense. Fair eno
 | Situation | Typical cost in Greater Moncton (CAD) | Who usually pays |
 |---|---|---|
 | Written estimate and tank assessment | $0 | Nobody, it's free |
-| Standard above-ground tank replacement | $2,800 to $4,500 | Homeowner |
-| Double-wall or double-bottom upgrade | $3,500 to $5,500 | Homeowner |
+| Standard above-ground tank replacement | $3,500 to $6,400 | Homeowner |
+| Double-wall or double-bottom upgrade | $4,500 to $6,400 | Homeowner |
 | Buried tank removal with soil testing | $4,000 to $10,000+ | Homeowner or negotiated in a sale |
 | Minor spill cleanup | $15,000 to $50,000 | Homeowner, insurance sometimes helps |
 | Major spill with soil remediation | $100,000+ | Often the homeowner, coverage frequently denied |

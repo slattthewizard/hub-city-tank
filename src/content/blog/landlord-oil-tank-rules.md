@@ -56,7 +56,7 @@ Landlords make better decisions with real figures in front of them, so let's put
 | Expense | Typical cost (CAD) | Who usually pays |
 |---|---|---|
 | Annual tank and line inspection | $100 to $200 | Landlord |
-| New above-ground tank, installed | $2,600 to $4,500 | Landlord |
+| New above-ground tank, installed | $3,000 to $5,500 | Landlord |
 | Old tank removal and disposal | $500 to $1,500 | Landlord |
 | Buried tank removal | $3,000 to $15,000+ | Landlord |
 | Emergency leak response | $500 to $2,500+ | Landlord |

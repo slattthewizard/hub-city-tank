@@ -11,7 +11,7 @@ subtitle: "Two houses on the same street in Riverview. Two buried oil tanks, rou
 canonical: "https://hubcitytank.ca/blog/buried-oil-tank-removal-cost/"
 faq:
   - question: "How much does buried oil tank removal cost in New Brunswick?"
-    answer: "Most straightforward residential removals in Greater Moncton run $3,000 to $5,000, including excavation, tank disposal, soil samples, and backfill. Difficult access, deep tanks, or high groundwater can push that to $8,000. If the tank leaked, remediation can bring the total to $15,000 to $30,000 or more depending on how far the oil spread."
+    answer: "Most straightforward residential removals in Greater Moncton run $2,000 to $4,000, including excavation, tank disposal, soil samples, and backfill. Difficult access, deep tanks, or high groundwater can push that to $8,000. If the tank leaked, remediation can bring the total to $15,000 to $30,000 or more depending on how far the oil spread."
   - question: "Does home insurance pay for removing a buried oil tank?"
     answer: "Almost never for the removal itself, since insurers treat that as property maintenance. Coverage for leak cleanup varies widely, and many policies exclude gradual seepage from old underground tanks entirely. In fact, most insurers in New Brunswick now require old buried tanks to be removed or decommissioned before they'll issue or renew a policy."
   - question: "Can I just leave the buried tank in the ground?"
@@ -27,14 +27,14 @@ If a home inspector, insurance company, or a rusty fill pipe in the lawn just to
 
 ## Buried Oil Tank Removal Cost in Greater Moncton: The Real Numbers
 
-For a straightforward job, most homeowners in Greater Moncton pay between $3,000 and $5,000. That's a tank in the front or side yard, buried a metre or so down, with room to get a small excavator in and no sign of a leak.
+For a straightforward job, most homeowners in Greater Moncton pay between $2,000 and $4,000. That's a tank in the front or side yard, buried a metre or so down, with room to get a small excavator in and no sign of a leak.
 
 Here's the full range of what we see across Westmorland, Albert, and Kent counties:
 
 | Scenario | Typical cost (CAD) |
 |---|---|
 | Locate and scan only (confirm a tank exists) | $300 to $600 |
-| Straightforward dig, good access, no leak | $3,000 to $5,000 |
+| Straightforward dig, good access, no leak | $2,000 to $4,000 |
 | Deep tank, tight access, or high water table | $5,000 to $8,000 |
 | Minor soil contamination found at removal | $8,000 to $15,000 |
 | Significant leak needing full remediation | $15,000 to $30,000+ |
@@ -118,7 +118,7 @@ Every buried tank job we quote starts with a free written estimate and a straigh
 
 ### How much does buried oil tank removal cost in New Brunswick?
 
-Most straightforward residential removals in Greater Moncton run $3,000 to $5,000, including excavation, tank disposal, soil samples, and backfill. Difficult access, deep tanks, or high groundwater can push that to $8,000. If the tank leaked, remediation can bring the total to $15,000 to $30,000 or more depending on how far the oil spread.
+Most straightforward residential removals in Greater Moncton run $2,000 to $4,000, including excavation, tank disposal, soil samples, and backfill. Difficult access, deep tanks, or high groundwater can push that to $8,000. If the tank leaked, remediation can bring the total to $15,000 to $30,000 or more depending on how far the oil spread.
 
 ### Does home insurance pay for removing a buried oil tank?
 

@@ -61,7 +61,7 @@ Here's what typical jobs run in Greater Moncton, and what the written quote shou
 |---|---|---|
 | Above-ground tank removal | $700 to $1,500 | Pump-out, disconnection, haul-away, disposal receipt |
 | Buried tank removal | $2,500 to $6,000+ | Excavation, soil assessment, backfill, disposal paperwork |
-| Tank replacement | $2,800 to $4,800 | New tank, stand or pad, lines and fittings, old tank disposal |
+| Tank replacement | $3,500 to $6,400 | New tank, stand or pad, lines and fittings, old tank disposal |
 | Emergency leak response | Varies by spill size | Pump-out, containment, and a clear next-step plan |
 
 If a quote lands well below these ranges, don't celebrate yet. Ask what's excluded. Common gaps are disposal fees, pumping out leftover oil, permit costs on buried tanks, and patching the wall where the fill pipe came out. We break the numbers down further in our guide to [oil tank removal cost](/blog/oil-tank-removal-cost/).
