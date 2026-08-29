@@ -98,7 +98,7 @@ Here's the safety line: if a tank is weeping, dripping or smells strongly of oil
 
 ## When to Replace, What It Costs, and How to Time It
 
-A straightforward like-for-like replacement in Greater Moncton typically runs $2,400 to $3,800 installed, depending on the tank you choose, where it sits, and whether the oil line and fittings need replacing at the same time. That's a real cheque, but it's a predictable one. Cleanup from a failed tank is not. Residential spill remediation commonly lands between $10,000 and $50,000, and depending on your policy, insurance may not cover all of it.
+A straightforward like-for-like replacement in Greater Moncton typically runs $3,500 to $6,400 installed, depending on the tank you choose, where it sits, and whether the oil line and fittings need replacing at the same time. That's a real cheque, but it's a predictable one. Cleanup from a failed tank is not. Residential spill remediation commonly lands between $10,000 and $50,000, and depending on your policy, insurance may not cover all of it.
 
 The math is simple enough. If your steel tank is past 15 years, you're not really deciding whether to replace it. You're deciding whether it happens on your schedule or the tank's.
 

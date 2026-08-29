@@ -15,7 +15,7 @@ faq:
   - question: "Is a small amount of water in the tank normal?"
     answer: "A trace of a few millimetres is common, especially in outdoor tanks, and it isn't an emergency. It should still be dealt with, because water never leaves on its own and it builds up season after season. Recheck monthly, keep the tank full to limit condensation, and book a pump-out once it climbs past a centimetre."
   - question: "How much does it cost to get water out of an oil tank?"
-    answer: "In the Greater Moncton area, a professional water and sludge pump-out typically runs $150 to $300, with a fuel treatment and line bleed adding $100 to $250 if needed. Emergency frozen line calls in winter run $250 to $450. If water has sat long enough to pit the tank floor, replacement runs roughly $2,800 to $4,200."
+    answer: "In the Greater Moncton area, a professional water and sludge pump-out typically runs $150 to $300, with a fuel treatment and line bleed adding $100 to $250 if needed. Emergency frozen line calls in winter run $250 to $450. If water has sat long enough to pit the tank floor, replacement runs roughly $3,500 to $6,400."
   - question: "Can water in the tank damage my furnace?"
     answer: "Yes. Water pulled into the fuel line corrodes the pump, fouls the filter, and clogs the nozzle, which causes rough starts, lockouts, and no-heat calls. In winter it can freeze inside the line and block the fuel entirely. Getting the water out protects the burner just as much as it protects the tank."
 ---
@@ -96,7 +96,7 @@ Here's what the common fixes cost in the Greater Moncton area:
 | Professional water and sludge pump-out | $150 to $300 | More than a trace of water |
 | Fuel treatment and line bleed | $100 to $250 | After pump-out, or trace moisture |
 | Emergency frozen line service | $250 to $450 | Winter no-heat calls |
-| Tank replacement | $2,800 to $4,200 | Pitted or rusted tank floor |
+| Tank replacement | $3,500 to $6,400 | Pitted or rusted tank floor |
 
 The pattern is obvious. Every row gets more expensive the longer the water sits in the tank.
 
@@ -138,7 +138,7 @@ A trace of a few millimetres is common, especially in outdoor tanks, and it isn'
 
 ### How much does it cost to get water out of an oil tank?
 
-In the Greater Moncton area, a professional water and sludge pump-out typically runs $150 to $300, with a fuel treatment and line bleed adding $100 to $250 if needed. Emergency frozen line calls in winter run $250 to $450. If water has sat long enough to pit the tank floor, replacement runs roughly $2,800 to $4,200.
+In the Greater Moncton area, a professional water and sludge pump-out typically runs $150 to $300, with a fuel treatment and line bleed adding $100 to $250 if needed. Emergency frozen line calls in winter run $250 to $450. If water has sat long enough to pit the tank floor, replacement runs roughly $3,500 to $6,400.
 
 ### Can water in the tank damage my furnace?
 

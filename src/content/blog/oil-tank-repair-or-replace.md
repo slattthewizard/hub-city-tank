@@ -13,7 +13,7 @@ faq:
   - question: "Can I patch a leaking oil tank with epoxy or a repair kit?"
     answer: "You can buy the kit, but you shouldn't use it on a tank shell. Corrosion attacks the tank from the inside, so a surface patch covers one hole while the steel around it keeps thinning. Insurers also treat patched tanks as uninsurable, which means a failed patch can leave you paying the whole cleanup yourself. Use a pan and absorbent to contain the drip, then call a professional."
   - question: "How much does it cost to replace a leaking oil tank in Moncton?"
-    answer: "Most residential replacements in Greater Moncton land between $2,800 and $4,500 installed, depending on tank size, location, and how tricky the access is. That usually includes transferring your remaining oil, connecting the new tank, and hauling the old one away. An actively leaking tank may add emergency pump-down costs, which is one more reason to act while it's still a drip."
+    answer: "Most residential replacements in Greater Moncton land between $3,500 and $6,400 installed, depending on tank size, location, and how tricky the access is. That usually includes transferring your remaining oil, connecting the new tank, and hauling the old one away. An actively leaking tank may add emergency pump-down costs, which is one more reason to act while it's still a drip."
   - question: "Will my insurance cover a leaking oil tank?"
     answer: "Often not, and that surprises people. Many New Brunswick policies exclude gradual seepage, and coverage gets shakier still if the tank was old, patched, or flagged in a previous renewal letter. Sudden accidental spills are sometimes covered, but you need to read your specific policy wording. Replacing an aging tank before it fails is the only sure way to stay onside."
   - question: "What if the drip is coming from the filter or fuel line instead of the tank?"
@@ -78,7 +78,7 @@ Here's how the money usually shakes out in the Greater Moncton area. Prices are 
 | DIY epoxy patch on the tank shell | $20 to $60 | Days to a few months | Voids insurance, does nothing about inside-out corrosion |
 | Fitting, valve, or filter repair | $150 to $350 | Years | Only valid if the tank shell itself is sound |
 | Fuel line replacement | $300 to $600 | Decades | Fixes the line, not a leaking tank |
-| New tank, installed | $2,800 to $4,500 | 15 to 25 years | Usually a one-day job |
+| New tank, installed | $3,000 to $5,500 | 15 to 25 years | Usually a one-day job |
 | Cleanup after a failed patch | $10,000 to $100,000+ | Not applicable | Frequently excluded by insurance |
 
 Look at the gap between the last two rows. That gap is the whole argument. Nobody enjoys spending three thousand and change on a tank, but it's the only option on the list that removes the risk instead of postponing it.
@@ -120,7 +120,7 @@ You can buy the kit, but you shouldn't use it on a tank shell. Corrosion attacks
 
 ### How much does it cost to replace a leaking oil tank in Moncton?
 
-Most residential replacements in Greater Moncton land between $2,800 and $4,500 installed, depending on tank size, location, and how tricky the access is. That usually includes transferring your remaining oil, connecting the new tank, and hauling the old one away. An actively leaking tank may add emergency pump-down costs, which is one more reason to act while it's still a drip.
+Most residential replacements in Greater Moncton land between $3,500 and $6,400 installed, depending on tank size, location, and how tricky the access is. That usually includes transferring your remaining oil, connecting the new tank, and hauling the old one away. An actively leaking tank may add emergency pump-down costs, which is one more reason to act while it's still a drip.
 
 ### Will my insurance cover a leaking oil tank?
 

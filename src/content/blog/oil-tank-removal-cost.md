@@ -11,7 +11,7 @@ subtitle: "Somewhere between $300 and $10,000. That's the honest answer to the o
 canonical: "https://hubcitytank.ca/blog/oil-tank-removal-cost/"
 faq:
   - question: "How much does it cost to remove an oil tank in New Brunswick?"
-    answer: "Most above-ground tank removals in the Moncton area cost $300 to $800, depending on access, tank condition, and how much oil is left inside. Buried tanks run $1,500 to $4,000 or more because of the excavation involved. If contaminated soil turns up, remediation can push a buried job past $10,000, though clean removals are far more common."
+    answer: "Most above-ground tank removals in the Moncton area cost $300 to $800, depending on access, tank condition, and how much oil is left inside. Buried tanks run $2,000 to $4,000 or more because of the excavation involved. If contaminated soil turns up, remediation can push a buried job past $10,000, though clean removals are far more common."
   - question: "Does home insurance pay for oil tank removal?"
     answer: "Routine removal of an aging tank is considered maintenance, so insurers generally won't pay for it. In fact, it's usually the insurer demanding the removal as a condition of keeping your coverage. Sudden leak damage may be covered depending on your policy, but oil spill coverage varies a lot between insurers, so read your policy and ask your broker directly."
   - question: "Can I remove an oil tank myself to save money?"
@@ -35,9 +35,9 @@ Buried tanks are a different story, and we'll get into why further down. Here's 
 | Indoor basement tank | $400 to $800 | Draining, cutting apart if needed, carry-out |
 | Leftover oil in the tank | Add $100 to $250 | Pumping out and handling remaining fuel |
 | Tank actively leaking | Add $150 to $500+ | Emergency pump-out, containment, minor cleanup |
-| Buried (underground) tank | $1,500 to $4,000+ | Excavation, lifting, disposal, backfill |
+| Buried (underground) tank | $2,000 to $4,000+ | Excavation, lifting, disposal, backfill |
 | Buried tank with contaminated soil | $10,000+ | Soil testing, remediation, environmental reporting |
-| Removal bundled with a new tank install | $2,800 to $4,500 total | Old tank out, new tank in, often at a package discount |
+| Removal bundled with a new tank install | $3,500 to $6,400 total | Old tank out, new tank in, often at a package discount |
 
 These are ranges, not promises, because every house is a little different. A tank wedged behind a finished basement wall in Riverview costs more to get out than one sitting in an open garage in Salisbury. That's why we do free written estimates instead of guessing over the phone.
 
@@ -111,7 +111,7 @@ We keep it simple: one written estimate, licensed and insured crews, and the pri
 
 ### How much does it cost to remove an oil tank in New Brunswick?
 
-Most above-ground tank removals in the Moncton area cost $300 to $800, depending on access, tank condition, and how much oil is left inside. Buried tanks run $1,500 to $4,000 or more because of the excavation involved. If contaminated soil turns up, remediation can push a buried job past $10,000, though clean removals are far more common.
+Most above-ground tank removals in the Moncton area cost $300 to $800, depending on access, tank condition, and how much oil is left inside. Buried tanks run $2,000 to $4,000 or more because of the excavation involved. If contaminated soil turns up, remediation can push a buried job past $10,000, though clean removals are far more common.
 
 ### Does home insurance pay for oil tank removal?
 

@@ -91,14 +91,14 @@ The tank gets tagged with the install date, you get documentation for your insur
 
 ## What the Oil Tank Replacement Process Costs in Greater Moncton
 
-Most residential replacements in our area land between $2,400 and $4,500 CAD. Where you fall in that range depends on the tank you choose, where it sits, and how hard the old one is to get out.
+Most residential replacements in our area land between $3,500 and $6,400 CAD. Where you fall in that range depends on the tank you choose, where it sits, and how hard the old one is to get out.
 
 | Job type | Typical all-in price (CAD) | Time on site |
 |---|---|---|
-| Outdoor tank, straightforward swap | $2,400 to $3,200 | 3 to 5 hours |
-| Basement tank, standard access | $2,600 to $3,500 | 4 to 6 hours |
-| Basement tank that must be cut out | $3,000 to $3,900 | 5 to 7 hours |
-| Double-wall upgrade with new stand and line | $3,200 to $4,500 | 4 to 6 hours |
+| Outdoor tank, straightforward swap | $3,500 to $4,600 | 3 to 5 hours |
+| Basement tank, standard access | $3,900 to $5,100 | 4 to 6 hours |
+| Basement tank that must be cut out | $4,400 to $5,700 | 5 to 7 hours |
+| Double-wall upgrade with new stand and line | $4,900 to $6,400 | 4 to 6 hours |
 | Emergency swap on a leaking tank | Add $300 to $600 | Same day where possible |
 
 Two real examples from this past year. Marc in Shediac had an outdoor tank where salt air off the strait had rusted the bottom seam. He went with a double-bottom tank on a new stand with a fresh line, $3,850 all in, and the crew was gone in five hours. Salt exposure ages coastal tanks faster than inland ones, so Shediac and Pointe-du-Chene owners should budget for earlier replacement.

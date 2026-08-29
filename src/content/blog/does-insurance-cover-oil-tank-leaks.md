@@ -13,7 +13,7 @@ faq:
   - question: "Will my insurance company really cancel me over an old oil tank?"
     answer: "Yes, non renewal over tank age happens regularly in New Brunswick, and it's the most common reason people call us. Most insurers set a limit somewhere between 15 and 25 years, and some now ask for photos or an inspection report at renewal. Replacing the tank before the deadline almost always resolves it, and your broker can confirm the exact requirement in writing."
   - question: "Does insurance pay for a new oil tank when the old one wears out?"
-    answer: "No. A worn out tank is considered normal aging, like an old roof, so replacement is a maintenance cost that's on you. Insurance is there for sudden, accidental damage, not for parts of the home reaching the end of their life. Budgeting $2,800 to $4,500 once every couple of decades is the trade off for keeping coverage intact."
+    answer: "No. A worn out tank is considered normal aging, like an old roof, so replacement is a maintenance cost that's on you. Insurance is there for sudden, accidental damage, not for parts of the home reaching the end of their life. Budgeting $3,500 to $6,400 once every couple of decades is the trade off for keeping coverage intact."
   - question: "What should I do the moment I find a leak or smell oil?"
     answer: "Shut off the tank's supply valve if you can reach it safely, keep people and pets away, and don't run fans or spread the oil around. Then call a professional right away, because containment in the first few hours is what separates a $2,000 problem from a $60,000 one. Our emergency line at (506) 802-3471 answers 24/7. Significant spills must also be reported to the province."
   - question: "Do indoor tanks face the same insurance rules as outdoor tanks?"
@@ -78,7 +78,7 @@ Numbers make this real, so here's what different scenarios typically look like f
 
 | Scenario | Typical cost (CAD) | Who usually pays |
 |---|---|---|
-| Replace an aging tank before it fails | $2,800 to $4,500 | Homeowner (a planned, one time cost) |
+| Replace an aging tank before it fails | $3,500 to $6,400 | Homeowner (a planned, one time cost) |
 | Small indoor spill caught within hours | $2,000 to $15,000 | Insurance, if sudden and the tank met policy conditions |
 | Leak reaches soil beside the foundation | $40,000 to $120,000 | Often denied if the tank was over the age limit |
 | Oil under the basement slab or in groundwater | $100,000 to $500,000+ | Homeowner if denied; liability coverage may apply for neighbours |
@@ -108,7 +108,7 @@ Don't sand rust, don't tighten fittings on a full tank, and don't test your luck
 
 **Keep every receipt.** Installation paperwork from a licensed installer, inspection notes, and delivery records are exactly the proof an adjuster asks for when a claim lands on their desk. A shoebox of paper has saved more than one claim.
 
-A proactive replacement is a half day job for our crew, and most swaps in the Moncton area land between $2,800 and $4,500 installed, old tank hauled away. You can see exactly how the day goes on our [oil tank replacement in Moncton](/oil-tank-replacement-moncton/) page. Ready for a number for your own home? [Request a free written estimate](/#contact) and we'll get you a firm price, not a guess.
+A proactive replacement is a half day job for our crew, and most swaps in the Moncton area land between $3,500 and $6,400 installed, old tank hauled away. You can see exactly how the day goes on our [oil tank replacement in Moncton](/oil-tank-replacement-moncton/) page. Ready for a number for your own home? [Request a free written estimate](/#contact) and we'll get you a firm price, not a guess.
 
 ## Frequently Asked Questions
 
@@ -118,7 +118,7 @@ Yes, non renewal over tank age happens regularly in New Brunswick, and it's the 
 
 ### Does insurance pay for a new oil tank when the old one wears out?
 
-No. A worn out tank is considered normal aging, like an old roof, so replacement is a maintenance cost that's on you. Insurance is there for sudden, accidental damage, not for parts of the home reaching the end of their life. Budgeting $2,800 to $4,500 once every couple of decades is the trade off for keeping coverage intact.
+No. A worn out tank is considered normal aging, like an old roof, so replacement is a maintenance cost that's on you. Insurance is there for sudden, accidental damage, not for parts of the home reaching the end of their life. Budgeting $3,500 to $6,400 once every couple of decades is the trade off for keeping coverage intact.
 
 ### What should I do the moment I find a leak or smell oil?
 

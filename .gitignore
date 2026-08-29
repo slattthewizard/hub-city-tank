@@ -7,3 +7,6 @@ dist/
 .vercel
 .env*
 __pycache__/
+
+# GBP setup notes + photo pack (local only)
+gbp/

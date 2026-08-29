@@ -101,7 +101,7 @@ The difference between a Tuesday phone call and a month of hoping is bigger than
 
 | Situation | Typical cost in Southeast NB (CAD) |
 |---|---|
-| Weeping tank caught early, pumped out and replaced | $2,800 to $4,500 |
+| Weeping tank caught early, pumped out and replaced | $3,500 to $6,400 |
 | Small indoor spill on bare concrete, contained same day | $5,000 to $15,000 |
 | Oil soaked into soil beside or under the foundation | $25,000 to $100,000+ |
 | Oil reaches a well, ditch, or watercourse | $100,000+, with provincial oversight |

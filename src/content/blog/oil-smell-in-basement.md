@@ -15,7 +15,7 @@ faq:
   - question: "Why does my basement smell like oil only when the furnace runs?"
     answer: "That pattern usually points to the burner rather than the tank. A clogged nozzle, delayed ignition, a cracked heat exchanger, or a venting problem can push unburned oil fumes or combustion odours into the basement each time the system fires. Book a furnace technician for a burner service, and mention the smell specifically. If the smell is constant whether the furnace runs or not, look to the tank, filter, and oil line instead."
   - question: "How much does it cost to fix an oil smell in the basement?"
-    answer: "It depends entirely on the source. Simple cleanup of delivery drips can be free, a weeping filter or fitting usually runs $150 to $450, and a failing tank means replacement at roughly $2,800 to $4,500 installed in the Moncton area. If oil has reached the concrete or soil, remediation can run from a few thousand dollars to well past $50,000, which is exactly why chasing the smell early is worth it."
+    answer: "It depends entirely on the source. Simple cleanup of delivery drips can be free, a weeping filter or fitting usually runs $150 to $450, and a failing tank means replacement at roughly $3,500 to $6,400 installed in the Moncton area. If oil has reached the concrete or soil, remediation can run from a few thousand dollars to well past $50,000, which is exactly why chasing the smell early is worth it."
   - question: "Who do I call if oil has actually spilled in New Brunswick?"
     answer: "If oil has leaked into soil, a drain, a sump, or groundwater, New Brunswick requires the spill to be reported. Call the 24-hour environmental emergency line for the Maritimes at 1-800-565-1633, and your insurance company as well. For the tank itself, call a licensed contractor to stop the source and remove or replace the tank. Our emergency line at (506) 802-3471 is answered 24/7 for exactly this situation."
 ---
@@ -86,7 +86,7 @@ Here's the honest range of what the common causes cost to put right in southeast
 | Delivery drips or minor spill residue | Absorbent cleanup, ventilation | $0 to $150 (often DIY) |
 | Weeping filter, gasket, or fitting | Replace filter and fittings | $150 to $450 |
 | Corroded or damaged oil line | Replace and sleeve the oil line | $500 to $1,200 |
-| Failing tank (rust, sweating, pinholes) | Tank replacement | $2,800 to $4,500 installed |
+| Failing tank (rust, sweating, pinholes) | Tank replacement | $3,500 to $6,400 installed |
 | Active leak into concrete or soil | Replacement plus remediation | $5,000 to $50,000+ |
 
 That last line is the one that keeps insurance companies up at night, and it's why so many of them now send those letters demanding proof of your tank's age. A tank that leaks into soil or groundwater triggers professional remediation, and in New Brunswick a spill must be reported to the province. The [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html) oversees contaminated site cleanups, and the 24-hour environmental emergency line for the Maritimes is 1-800-565-1633. Whether your policy helps with any of it depends on your coverage, which we break down in [does insurance cover oil tank leaks](/blog/does-insurance-cover-oil-tank-leaks/).
@@ -142,7 +142,7 @@ That pattern usually points to the burner rather than the tank. A clogged nozzle
 
 ### How much does it cost to fix an oil smell in the basement?
 
-It depends entirely on the source. Simple cleanup of delivery drips can be free, a weeping filter or fitting usually runs $150 to $450, and a failing tank means replacement at roughly $2,800 to $4,500 installed in the Moncton area. If oil has reached the concrete or soil, remediation can run from a few thousand dollars to well past $50,000, which is exactly why chasing the smell early is worth it.
+It depends entirely on the source. Simple cleanup of delivery drips can be free, a weeping filter or fitting usually runs $150 to $450, and a failing tank means replacement at roughly $3,500 to $6,400 installed in the Moncton area. If oil has reached the concrete or soil, remediation can run from a few thousand dollars to well past $50,000, which is exactly why chasing the smell early is worth it.
 
 ### Who do I call if oil has actually spilled in New Brunswick?
 

@@ -90,9 +90,9 @@ Every property is different, but here's the realistic range of what these option
 | Option | Typical cost range | Best suited for |
 |---|---|---|
 | Abandonment in place, clean soil confirmed | $1,500 to $3,500 | Tanks trapped under structures, decks, or additions |
-| Full buried tank removal, clean soil | $2,500 to $6,000 | Sales, refinancing, accessible tanks, peace of mind |
+| Full buried tank removal, clean soil | $2,000 to $4,000 | Sales, refinancing, accessible tanks, peace of mind |
 | Removal where contamination is found | $10,000 to $100,000 or more | Not a choice. Leaking tanks must come out |
-| New above-ground tank installed | $2,600 to $4,500 | Homes staying on oil heat after the old tank is retired |
+| New above-ground tank installed | $3,000 to $5,500 | Homes staying on oil heat after the old tank is retired |
 
 A few notes on those numbers. Abandonment costs climb when the tank is large, deep, or hard to reach, and when a concrete slurry fill is used instead of sand. Removal costs climb with depth, access, and disposal volume. For a deeper breakdown of the removal side, see our post on [buried oil tank removal cost](/blog/buried-oil-tank-removal-cost/).
 
