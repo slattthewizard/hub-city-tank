@@ -26,7 +26,7 @@ Winter attacks them four ways:
 
 None of this is rare. Environment and Climate Change Canada's forecasts at [weather.gc.ca](https://weather.gc.ca/) will tell you when the next dump is coming, but they can't shovel your fill pipe out for you.
 
-If you already suspect something got bent or cracked in the last storm, don't wait for the next delivery to find out. Call us at [(506) 802-3471](tel:+15068023471) and we'll take a look, or [request a free written estimate](/#contact) if the tank itself is showing its age.
+If you already suspect something got bent or cracked in the last storm, don't wait for the next delivery to find out. Call us at [(506) 806-0900](tel:+15068060900) and we'll take a look, or [request a free written estimate](/#contact) if the tank itself is showing its age.
 
 ## The Five Spots to Clear After Every Storm
 
@@ -95,7 +95,7 @@ Every prevention item in that table is free or close to it. The most expensive t
 
 DIY snow clearing around a tank is safe as long as the tank is sound. There are clear lines where it stops being a shovel job.
 
-**Call right away, any hour, if you see or smell oil.** Stained snow, a sheen on meltwater, or a strong oil smell near the tank means fuel is getting out. Don't try to dig the tank out yourself, because shovelling contaminated snow spreads the problem. Shut off the tank valve if you can reach it safely, then call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471). Leaks in New Brunswick also need to be reported to the province, and the Department of Environment and Local Government ([gnb.ca](https://www2.gnb.ca/content/gnb/en/departments/elg.html)) runs a 24-hour spill report line at 1-800-565-1633.
+**Call right away, any hour, if you see or smell oil.** Stained snow, a sheen on meltwater, or a strong oil smell near the tank means fuel is getting out. Don't try to dig the tank out yourself, because shovelling contaminated snow spreads the problem. Shut off the tank valve if you can reach it safely, then call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900). Leaks in New Brunswick also need to be reported to the province, and the Department of Environment and Local Government ([gnb.ca](https://www2.gnb.ca/content/gnb/en/departments/elg.html)) runs a 24-hour spill report line at 1-800-565-1633.
 
 **Call soon, not necessarily today, if:**
 
@@ -109,7 +109,7 @@ Claudette in Memramcook made the "call soon" call last March, and it saved her. 
 
 That's the pattern with winter tank damage. Caught early, it's a few hundred dollars. Ignored, it's a remediation project.
 
-If your tank is old, leaning, or wearing more rust than paint, don't nurse it through another Maritime winter. We do [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) around the clock for leaks, and free written estimates on replacements any time. Call [(506) 802-3471](tel:+15068023471) or [book your estimate here](/#contact) and we'll tell you straight whether your tank needs help or just a shovel path.
+If your tank is old, leaning, or wearing more rust than paint, don't nurse it through another Maritime winter. We do [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) around the clock for leaks, and free written estimates on replacements any time. Call [(506) 806-0900](tel:+15068060900) or [book your estimate here](/#contact) and we'll tell you straight whether your tank needs help or just a shovel path.
 
 ## Frequently Asked Questions
 

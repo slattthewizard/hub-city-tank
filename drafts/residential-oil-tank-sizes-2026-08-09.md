@@ -23,7 +23,7 @@ Below that sits the 620 litre compact tank, popular for cottages, mini-homes, an
 
 One quick warning about gallon talk. Fuel companies and older installers mix imperial gallons, US gallons, and litres freely, so the same tank can be called a 200 gallon, a 240 gallon, or a 910 litre depending on who's talking. When you're comparing quotes, always ask for the size in litres so you're comparing apples to apples.
 
-Not sure what's sitting in your basement right now? Call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact). We'll identify your tank, check its age, and tell you honestly whether it needs replacing at all.
+Not sure what's sitting in your basement right now? Call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact). We'll identify your tank, check its age, and tell you honestly whether it needs replacing at all.
 
 ## How Much Heating Oil Does a Moncton Area Home Burn?
 
@@ -94,7 +94,7 @@ That's the pattern we see most. The right size is usually the same as what you h
 
 Whatever size you land on, a proper crew handles replacement in about half a day, old tank hauled away and disposed of included. You can see exactly how the day unfolds on our [oil tank replacement service page](/oil-tank-replacement-moncton/).
 
-If you're staring at an insurance deadline or an aging tank anywhere in Greater Moncton, Westmorland, Albert, or Kent counties, we'll size it properly the first time. Call [(506) 802-3471](tel:+15068023471) or [book your free written estimate](/#contact). No pressure and no upsell, just a straight answer on what your house actually needs.
+If you're staring at an insurance deadline or an aging tank anywhere in Greater Moncton, Westmorland, Albert, or Kent counties, we'll size it properly the first time. Call [(506) 806-0900](tel:+15068060900) or [book your free written estimate](/#contact). No pressure and no upsell, just a straight answer on what your house actually needs.
 
 ## Frequently Asked Questions
 

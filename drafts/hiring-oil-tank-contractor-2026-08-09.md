@@ -21,7 +21,7 @@ That's the real difference between companies. Anyone with a truck and a reciproc
 
 So treat the first phone call like a job interview. You're hiring someone to handle a small environmental risk on your property. It's worth ten minutes of questions.
 
-If you'd rather skip the interview process entirely, [call Hub City Tank Co at (506) 802-3471](tel:+15068023471). We'll answer every question in this article before you ask it, and the written estimate is free.
+If you'd rather skip the interview process entirely, [call Hub City Tank Co at (506) 806-0900](tel:+15068060900). We'll answer every question in this article before you ask it, and the written estimate is free.
 
 ## Licensing and Insurance: Ask These Questions First
 
@@ -90,7 +90,7 @@ None of these alone proves someone's a crook. Two or three together is a pattern
 
 Here's the boring truth: a well-run tank job is uneventful. You get a written estimate with a real scope. Someone shows up when they said they would. The tank comes out or goes in, the site gets cleaned up, and you get a folder with your receipt, your disposal record, and any inspection paperwork your insurer wants.
 
-That's the standard to hold every company to, including us. Hub City Tank Co is licensed and insured, we serve all of Greater Moncton and Southeast New Brunswick, and every estimate is free and in writing. If your tank is actively leaking, don't wait on quotes at all. Shut off what you can safely reach, keep people and pets away, and call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471) right away. For everything else, [get your free written estimate](/#contact) and take your time comparing it. We're confident about how that comparison goes.
+That's the standard to hold every company to, including us. Hub City Tank Co is licensed and insured, we serve all of Greater Moncton and Southeast New Brunswick, and every estimate is free and in writing. If your tank is actively leaking, don't wait on quotes at all. Shut off what you can safely reach, keep people and pets away, and call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900) right away. For everything else, [get your free written estimate](/#contact) and take your time comparing it. We're confident about how that comparison goes.
 
 ## Frequently Asked Questions
 

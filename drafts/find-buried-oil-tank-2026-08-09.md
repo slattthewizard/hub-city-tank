@@ -21,7 +21,7 @@ We know better now. Buried steel tanks corrode from the outside in, which means 
 
 That's why insurers, lenders, and real estate lawyers in New Brunswick treat an unknown buried tank as a serious red flag. Many insurance companies won't write or renew a policy until the tank is confirmed gone or properly dealt with.
 
-Already staring at a mystery pipe beside your foundation? You don't have to figure this out alone. Snap a couple of photos and call Hub City Tank Co at [(506) 802-3471](tel:+15068023471). We'll tell you straight whether it's worth a scan, and our written estimates are always free.
+Already staring at a mystery pipe beside your foundation? You don't have to figure this out alone. Snap a couple of photos and call Hub City Tank Co at [(506) 806-0900](tel:+15068060900). We'll tell you straight whether it's worth a scan, and our written estimates are always free.
 
 ## 8 Signs a Property Has a Buried Oil Tank
 
@@ -104,7 +104,7 @@ And if you're staying put with oil heat, deal with the old buried tank and put a
 
 The cost of waiting is real. Paul in Memramcook knew about the pipe in his side yard for years and figured the old tank had been emptied decades ago. It hadn't. When the shell finally failed, oil tracked along his foundation drain, and the remediation bill passed $38,000. His insurance covered only part of it. The scan that would've caught it early costs less than a winter fill-up.
 
-Hub City Tank Co is licensed and insured, our estimates are free and in writing, and we serve Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, Sackville, and the rest of Westmorland, Albert, and Kent counties. Call [(506) 802-3471](tel:+15068023471) and let's find out what's under that lawn before it costs you real money.
+Hub City Tank Co is licensed and insured, our estimates are free and in writing, and we serve Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, Sackville, and the rest of Westmorland, Albert, and Kent counties. Call [(506) 806-0900](tel:+15068060900) and let's find out what's under that lawn before it costs you real money.
 
 ## Frequently Asked Questions
 

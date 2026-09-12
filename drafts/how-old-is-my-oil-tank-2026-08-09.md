@@ -19,7 +19,7 @@ So insurance companies now ask the question up front: how old is the tank? If yo
 
 Denise in Riverview got one of those letters last fall. Her insurer gave her until the end of the month to confirm the tank's age or find new coverage, and she called us worried she was staring down a $3,000 bill she hadn't budgeted for. It took about five minutes to find the manufacture date embossed on the tank's top plate: 2014. We gave her a photo and a short written note, her broker was satisfied, and the visit cost her nothing. Her neighbour up the street ran the same check and learned his tank was 26 years old. He replaced it that same week for $2,850 and told us he slept better for it.
 
-If there's a letter like that sitting on your kitchen table right now, don't wait for deadline week. Call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact) and we'll help you pin down your tank's age, usually within a few days.
+If there's a letter like that sitting on your kitchen table right now, don't wait for deadline week. Call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact) and we'll help you pin down your tank's age, usually within a few days.
 
 ## How to Tell the Age of Your Oil Tank: Start With the Label
 
@@ -78,7 +78,7 @@ Whatever the age turns out to be, walk around your tank once a season and look f
 
 Roland in Memramcook is the reason we preach this. His tank was only 13 years old, well inside the safe zone on paper. While checking his fill line we spotted a rust blister the size of a loonie low on the bottom seam, and the steel behind it was paper thin. He replaced the tank for $2,700 and avoided the kind of leak that starts around $15,000 in cleanup costs even when it's caught early.
 
-If you ever find fresh oil, a spreading wet spot, or a smell that wasn't there last week, stop investigating and get help the same day. Our emergency line at [(506) 802-3471](tel:+15068023471) answers 24/7. And keep in mind that actual spills in New Brunswick must be reported to the province, through the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html).
+If you ever find fresh oil, a spreading wet spot, or a smell that wasn't there last week, stop investigating and get help the same day. Our emergency line at [(506) 806-0900](tel:+15068060900) answers 24/7. And keep in mind that actual spills in New Brunswick must be reported to the province, through the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html).
 
 ## What to Do Once You Know Your Tank's Age
 

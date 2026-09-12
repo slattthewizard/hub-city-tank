@@ -63,7 +63,7 @@ There's one more number that belongs in this math. Gérard in Memramcook ran a 1
 
 So the real comparison isn't $3,000 versus $4,500. It's $4,500 versus the possibility of $20,000 or more, plus the fight over who pays it. Our [oil tank replacement cost](/oil-tank-replacement-cost/) page breaks down every line item if you want the full picture, and our post on [whether insurance covers oil tank leaks](/blog/does-insurance-cover-oil-tank-leaks/) explains why that coverage is thinner than most people assume.
 
-Want a firm number for your house instead of a range? Call [(506) 802-3471](tel:+15068023471) and we'll book a free written estimate. Same number goes to our 24/7 emergency line if you've got oil on the floor right now.
+Want a firm number for your house instead of a range? Call [(506) 806-0900](tel:+15068060900) and we'll book a free written estimate. Same number goes to our 24/7 emergency line if you've got oil on the floor right now.
 
 ## Double Bottom, Double Wall, and Other Labels That Get Mixed Up
 

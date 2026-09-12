@@ -23,7 +23,7 @@ Your tank fights back with paint and, on newer models, powder coating. But every
 
 And here's the part most homeowners miss: the outside attack is only half the story. Condensation forms inside the tank too, and water settles to the bottom where sludge hides it. A coastal tank can be rusting from both directions at once, which is why some tanks fail from the inside out while the paint still looks decent. We covered the inside-out failure pattern in our guide to [rust on your oil tank](/blog/rust-on-oil-tank/).
 
-If your tank is near the water and past its tenth birthday, it's worth a professional look before another winter. Call Hub City Tank Co at [(506) 802-3471](tel:+15068023471) for a free written estimate. No pressure, just a straight answer about how much life your tank has left.
+If your tank is near the water and past its tenth birthday, it's worth a professional look before another winter. Call Hub City Tank Co at [(506) 806-0900](tel:+15068060900) for a free written estimate. No pressure, just a straight answer about how much life your tank has left.
 
 ## How Much Faster Do Coastal Tanks Rust?
 
@@ -96,7 +96,7 @@ Upgrading to a fibreglass or composite double-wall tank usually lands between $3
 
 Compare either number to the downside. A leak that reaches soil starts around $5,000 to $10,000 to clean up, and coastal properties with high water tables can climb far past that. Marcel's neighbour would tell you the $3,000 tank was the bargain of the decade.
 
-Every job starts with a free written estimate, and we're licensed and insured. If your tank is coastal and double digits in age, let's look at it before winter. Call [(506) 802-3471](tel:+15068023471) or [book your free estimate online](/#contact). If you've got oil on the ground right now, use our 24/7 emergency line instead and we'll walk you through the first steps on the phone.
+Every job starts with a free written estimate, and we're licensed and insured. If your tank is coastal and double digits in age, let's look at it before winter. Call [(506) 806-0900](tel:+15068060900) or [book your free estimate online](/#contact). If you've got oil on the ground right now, use our 24/7 emergency line instead and we'll walk you through the first steps on the phone.
 
 ## Frequently Asked Questions
 
@@ -114,4 +114,4 @@ In most coastal cases, yes. The upgrade typically costs $1,000 to $1,500 more th
 
 ### What should I do if my coastal tank is already leaking?
 
-Stop adding oil, keep ignition sources away, and don't try to patch the tank yourself. Put a container under an active drip if it's safe to do so, then call a professional right away. Our emergency line at (506) 802-3471 answers 24/7, and small contained leaks handled quickly cost a fraction of what a soil cleanup does.
+Stop adding oil, keep ignition sources away, and don't try to patch the tank yourself. Put a container under an active drip if it's safe to do so, then call a professional right away. Our emergency line at (506) 806-0900 answers 24/7, and small contained leaks handled quickly cost a fraction of what a soil cleanup does.

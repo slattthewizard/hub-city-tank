@@ -23,7 +23,7 @@ It's minus 20 in Moncton, your furnace has locked out for the second time this w
 
 Here's the good news. Sludge is predictable. It forms for known reasons, it gives off warning signs months before it shuts anything down, and every fix has a price tag you can plan for. This guide covers all of it, with real numbers from real driveways in Southeast New Brunswick.
 
-And if your furnace is already down and you suspect a clogged line, skip the reading. Call us at [(506) 802-3471](tel:+15068023471). We answer the emergency line 24/7.
+And if your furnace is already down and you suspect a clogged line, skip the reading. Call us at [(506) 806-0900](tel:+15068060900). We answer the emergency line 24/7.
 
 ## What Is Oil Tank Sludge, Anyway?
 
@@ -109,7 +109,7 @@ Whichever fix you land on, the same habits keep the new fuel clean.
 
 A clean tank also feeds an efficient burner. The U.S. Department of Energy points to regular maintenance as one of the biggest factors in [home heating system efficiency](https://www.energy.gov/energysaver/home-heating-systems), and for oil heat, maintenance starts with fuel quality.
 
-If sludge is costing you filters, service calls, or sleep, we can end it. Call Hub City Tank Co at [(506) 802-3471](tel:+15068023471) for a free written estimate. We're licensed, insured, and local, serving Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, Sackville, and the rest of Southeast New Brunswick.
+If sludge is costing you filters, service calls, or sleep, we can end it. Call Hub City Tank Co at [(506) 806-0900](tel:+15068060900) for a free written estimate. We're licensed, insured, and local, serving Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, Sackville, and the rest of Southeast New Brunswick.
 
 ## Frequently Asked Questions
 

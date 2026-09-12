@@ -28,7 +28,7 @@ Here's the part that catches people off guard. Even a genuinely sudden leak can 
 
 So the real answer to "does insurance cover oil tank leaks" is this: yes, if the leak is sudden, the tank meets your policy's conditions, and you can prove it. That's a lot of ifs. The good news is that every one of those ifs is within your control before a leak ever happens.
 
-If you've received an insurance letter about your tank's age, or you're just not sure where your tank stands, [call us at (506) 802-3471](tel:+15068023471) for a free written estimate. We'll tell you straight whether your tank needs replacing or whether it's got years left in it.
+If you've received an insurance letter about your tank's age, or you're just not sure where your tank stands, [call us at (506) 806-0900](tel:+15068060900) for a free written estimate. We'll tell you straight whether your tank needs replacing or whether it's got years left in it.
 
 ## Why Your Insurer Keeps Asking About Your Tank's Age
 
@@ -56,7 +56,7 @@ She'd lost maybe $180 worth of oil into a patch of gravel, which was contained a
 
 The lesson: a wet spot, an oil smell, or fresh rust streaks are not "keep an eye on it" problems. They're call today problems. Our post on [what to do when your oil tank is leaking](/blog/oil-tank-leaking-what-to-do/) walks through the first hour step by step.
 
-One more thing. If oil is actively leaking right now, stop reading and call our 24/7 emergency line at (506) 802-3471. Don't try to drain, tip, or move the tank yourself.
+One more thing. If oil is actively leaking right now, stop reading and call our 24/7 emergency line at (506) 806-0900. Don't try to drain, tip, or move the tank yourself.
 
 A leaking tank still holding a couple hundred litres is heavy, awkward, and one wrong move turns a small spill into a big one. Containing a live leak is exactly what our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) exists for.
 
@@ -110,7 +110,7 @@ No. A worn out tank is considered normal aging, like an old roof, so replacement
 
 ### What should I do the moment I find a leak or smell oil?
 
-Shut off the tank's supply valve if you can reach it safely, keep people and pets away, and don't run fans or spread the oil around. Then call a professional right away, because containment in the first few hours is what separates a $2,000 problem from a $60,000 one. Our emergency line at (506) 802-3471 answers 24/7. Significant spills must also be reported to the province.
+Shut off the tank's supply valve if you can reach it safely, keep people and pets away, and don't run fans or spread the oil around. Then call a professional right away, because containment in the first few hours is what separates a $2,000 problem from a $60,000 one. Our emergency line at (506) 806-0900 answers 24/7. Significant spills must also be reported to the province.
 
 ### Do indoor tanks face the same insurance rules as outdoor tanks?
 

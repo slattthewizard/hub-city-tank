@@ -31,7 +31,7 @@ A proper abandonment is a controlled shutdown. Here's what the process looks lik
 
 That last step matters more than most homeowners realize. A tank abandoned in place without paperwork is, in the eyes of a future buyer's lawyer or insurer, just a buried tank. The documents are what turn it from a liability into a closed file.
 
-If you're staring at a buried tank right now and want a straight answer on your options, call Hub City Tank Co at [(506) 802-3471](tel:+15068023471). The written estimate is free, and we'll tell you honestly whether closure in place or removal fits your situation.
+If you're staring at a buried tank right now and want a straight answer on your options, call Hub City Tank Co at [(506) 806-0900](tel:+15068060900). The written estimate is free, and we'll tell you honestly whether closure in place or removal fits your situation.
 
 ## When You Can Leave a Buried Tank in the Ground
 
@@ -124,7 +124,7 @@ Choose removal when the tank is accessible, when a sale or refinance is anywhere
 
 Choose neither, and the tank will eventually make the choice for you, on its schedule and at its price.
 
-Hub City Tank Co does both closures and removals across Moncton, Dieppe, Riverview, and all of Westmorland, Albert, and Kent counties. We're licensed and insured, our estimates are free and in writing, and we'll recommend the cheaper option when it's genuinely the right one. Call [(506) 802-3471](tel:+15068023471) or [book your free estimate online](/#contact) and get a real answer about the tank under your yard.
+Hub City Tank Co does both closures and removals across Moncton, Dieppe, Riverview, and all of Westmorland, Albert, and Kent counties. We're licensed and insured, our estimates are free and in writing, and we'll recommend the cheaper option when it's genuinely the right one. Call [(506) 806-0900](tel:+15068060900) or [book your free estimate online](/#contact) and get a real answer about the tank under your yard.
 
 ## Frequently Asked Questions
 

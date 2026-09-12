@@ -35,7 +35,7 @@ Most of these homes were built between the 1940s and the 1980s, when oil was the
 
 And here's the part that surprises people from away: a well-maintained oil furnace with a sound tank is still a perfectly legitimate way to heat a home here. The problems start when the tank gets old, not when the fuel does.
 
-If your tank is pushing 15 years or you honestly don't know its age, that's the one piece of this you shouldn't sit on. Call us at [(506) 802-3471](tel:+15068023471) and we'll give you a free written estimate on a replacement, with no pressure to do anything else.
+If your tank is pushing 15 years or you honestly don't know its age, that's the one piece of this you shouldn't sit on. Call us at [(506) 806-0900](tel:+15068060900) and we'll give you a free written estimate on a replacement, with no pressure to do anything else.
 
 ## Four Honest Reasons Moncton Homes Kept the Furnace
 
@@ -121,7 +121,7 @@ A few habits will save you money and stress:
 
 None of this is complicated, but skipping it is how a $3,000 tank replacement turns into a $40,000 spill cleanup. And to be clear about the limits of DIY: checking, looking, and smelling are homeowner jobs. Moving a tank, repairing fittings, or dealing with any actual leak is licensed-professional territory, full stop.
 
-Oil heat has kept Moncton warm for three generations, and for plenty of homes it still makes sense. The trick is treating the tank like the serious piece of equipment it is. Whether yours needs replacing, removing, or just a second opinion, call Hub City Tank at [(506) 802-3471](tel:+15068023471). Free written estimates, licensed and insured, and a 24/7 line if a leak ever turns your evening upside down.
+Oil heat has kept Moncton warm for three generations, and for plenty of homes it still makes sense. The trick is treating the tank like the serious piece of equipment it is. Whether yours needs replacing, removing, or just a second opinion, call Hub City Tank at [(506) 806-0900](tel:+15068060900). Free written estimates, licensed and insured, and a 24/7 line if a leak ever turns your evening upside down.
 
 ## Frequently Asked Questions
 

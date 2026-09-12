@@ -33,7 +33,7 @@ Second, there's no approved way to do it. CSA B139, the Canadian installation co
 
 Third, the stakes are lopsided. A typical residential tank holds around 910 litres of furnace oil. A patch that fails at 2 a.m. in January can turn a $60 fix into a cleanup bill bigger than a new car.
 
-If your tank is actively dripping right now, don't wait to finish this article. Slide a metal pan or bucket under the drip and call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471). A slow weep on Friday can be a basement full of oil fumes by Monday, and the earlier we catch it, the cheaper it stays.
+If your tank is actively dripping right now, don't wait to finish this article. Slide a metal pan or bucket under the drip and call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900). A slow weep on Friday can be a basement full of oil fumes by Monday, and the earlier we catch it, the cheaper it stays.
 
 ## Why a Leaking Oil Tank Usually Can't Be Repaired
 
@@ -67,7 +67,7 @@ Repairs like these typically run $150 to $600 depending on parts and access, and
 
 Diane in Shediac is a good example. She got one of those insurance letters last fall, then spotted oil under her outdoor tank a week later and assumed she was looking at a full replacement. Our tech wiped everything dry, waited a few minutes, and watched the drip form at the filter cover gasket, not the tank. New filter, new gasket, one fitting snugged up: $260 all in. The tank passed inspection and her policy renewed without a fuss. Salt air along the Shediac coast is harder on fittings and filters than on tank shells, so coastal homes see this pattern a lot.
 
-The test is simple. Wipe the whole underside of the tank and every fitting completely dry with a rag, then check back every 15 minutes. If the first fresh bead of oil forms on the steel shell, a seam, or a weld, the tank is done. If it forms at the filter, valve, or a fitting, you likely have a cheap fix. If you can't tell, or the drip is faster than a bead every few minutes, stop there and call us at [(506) 802-3471](tel:+15068023471) rather than guessing.
+The test is simple. Wipe the whole underside of the tank and every fitting completely dry with a rag, then check back every 15 minutes. If the first fresh bead of oil forms on the steel shell, a seam, or a weld, the tank is done. If it forms at the filter, valve, or a fitting, you likely have a cheap fix. If you can't tell, or the drip is faster than a bead every few minutes, stop there and call us at [(506) 806-0900](tel:+15068060900) rather than guessing.
 
 ## Repairing vs Replacing a Leaking Oil Tank: The Real Numbers
 
@@ -110,7 +110,7 @@ Home insurers here pay close attention to oil tanks. Most ask the tank's age at 
 
 The bigger trap is what happens after a failure. Many policies exclude damage from gradual seepage, and a claim tied to a tank the homeowner knowingly patched is an easy denial. That's how people end up paying five-figure cleanup bills out of pocket. Our post on [whether insurance covers oil tank leaks](/blog/does-insurance-cover-oil-tank-leaks/) goes through the fine print, and it's worth ten minutes of your time if you heat with oil.
 
-So, can a leaking oil tank be repaired? If the leak is at a fitting, filter, valve, or line, yes, and it's usually cheap. If the leak is in the tank itself, the only real fix is a new tank, and everything else is borrowed time with your insurance on the line. Either way, the first step is the same: get honest eyes on it. Call [(506) 802-3471](tel:+15068023471) any hour, or [book a free written estimate](/#contact) and we'll tell you straight which kind of leak you've got, even when the answer is a $260 gasket instead of a new tank.
+So, can a leaking oil tank be repaired? If the leak is at a fitting, filter, valve, or line, yes, and it's usually cheap. If the leak is in the tank itself, the only real fix is a new tank, and everything else is borrowed time with your insurance on the line. Either way, the first step is the same: get honest eyes on it. Call [(506) 806-0900](tel:+15068060900) any hour, or [book a free written estimate](/#contact) and we'll tell you straight which kind of leak you've got, even when the answer is a $260 gasket instead of a new tank.
 
 ## Frequently Asked Questions
 

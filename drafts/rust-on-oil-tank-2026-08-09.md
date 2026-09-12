@@ -21,7 +21,7 @@ Then there's the coast. If you're in Shediac, Pointe-du-Chene, Cap-Pele, or anyw
 
 Indoor tanks aren't off the hook either. A damp basement in an older Moncton or Riverview home keeps humidity against the tank all year, and the cool steel becomes a condensation magnet every July and August.
 
-If you've already found rust and want a straight answer instead of a guess, call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact). We'll tell you honestly whether your tank has years left or needs to come out.
+If you've already found rust and want a straight answer instead of a guess, call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact). We'll tell you honestly whether your tank has years left or needs to come out.
 
 ## Harmless Patina or Warning Sign? How to Read Rust on an Oil Tank
 
@@ -73,7 +73,7 @@ Grab your phone and a flashlight. Here's the check we'd do at your place, in the
 6. **Look at the ground.** Stains on the concrete, a patch of dead grass, or an oil smell means you may already have a slow leak.
 7. **Photograph everything with the date.** You'll want the comparison next season, and your insurer may want the photos too.
 
-Just as important, know where DIY ends. Don't sand, grind, chip, or pressure-wash heavy rust to "see how bad it is", and never crank on a weeping fitting with a wrench. Thin steel doesn't give warnings twice. If you find dampness, a drip, or a strong oil smell, call our [24/7 emergency oil tank line](/emergency-oil-tank-service-moncton/) at [(506) 802-3471](tel:+15068023471) right away, day or night. And if everything checks out, put a reminder in your calendar to do it again each fall. The full routine is in our [oil tank inspection checklist](/blog/oil-tank-inspection-checklist/).
+Just as important, know where DIY ends. Don't sand, grind, chip, or pressure-wash heavy rust to "see how bad it is", and never crank on a weeping fitting with a wrench. Thin steel doesn't give warnings twice. If you find dampness, a drip, or a strong oil smell, call our [24/7 emergency oil tank line](/emergency-oil-tank-service-moncton/) at [(506) 806-0900](tel:+15068060900) right away, day or night. And if everything checks out, put a reminder in your calendar to do it again each fall. The full routine is in our [oil tank inspection checklist](/blog/oil-tank-inspection-checklist/).
 
 ## When Rust Means Replacement: What It Costs
 
@@ -91,7 +91,7 @@ Those last two rows are the reason we push people not to wait. Roger in Salisbur
 
 Environmental rules raise the stakes further. In New Brunswick, oil spills must be reported to the province through the 24-hour environmental emergencies line, and the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html) can require a full remediation plan before the file is closed. If your property has an older buried tank, the risks and the rules are stricter still. The U.S. EPA's [underground storage tank program](https://www.epa.gov/ust) is a good plain-language primer on why buried steel and soil are such an expensive combination.
 
-A rusty oil tank is one of the few home problems where acting early saves you 90 percent of the cost. If the weekend check above turned up anything past light surface bloom, [get a free written estimate](/#contact) or call [(506) 802-3471](tel:+15068023471). No pressure and no scare tactics, just a straight answer about how much life your tank has left.
+A rusty oil tank is one of the few home problems where acting early saves you 90 percent of the cost. If the weekend check above turned up anything past light surface bloom, [get a free written estimate](/#contact) or call [(506) 806-0900](tel:+15068060900). No pressure and no scare tactics, just a straight answer about how much life your tank has left.
 
 ## Frequently Asked Questions
 

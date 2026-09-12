@@ -23,7 +23,7 @@ So here's the clean rule of thumb. Fuel: tenant, if the lease says so. Tank, lin
 
 There's one more layer on top of the tenancy rules, and it's the heavy one. Environmental law doesn't care who was renting the place when a tank let go. If oil escapes into the ground, you're the property owner, and the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html) deals with you, not your tenant.
 
-If you honestly can't remember the last time anyone looked at the tank behind your rental, that's your sign. [Call us at (506) 802-3471](tel:+15068023471) and we'll give you a free written estimate on an inspection or replacement, no pressure and no surprises.
+If you honestly can't remember the last time anyone looked at the tank behind your rental, that's your sign. [Call us at (506) 806-0900](tel:+15068060900) and we'll give you a free written estimate on an inspection or replacement, no pressure and no surprises.
 
 ## The Insurance Letter Every Oil-Heat Landlord Eventually Gets
 
@@ -75,7 +75,7 @@ Denise rents out a converted cottage in Shediac, a few blocks back from the wate
 
 If oil has actually spilled, you have a legal duty to report it. In New Brunswick, that means calling the 24-hour environmental emergency line at 1-800-565-1633, whether the spill is four litres or forty. Reporting promptly and acting fast is also your best protection later, when insurers or regulators ask what you did and when you did it.
 
-For a leaking tank at a rental, day or night, call our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line at [(506) 802-3471](tel:+15068023471). We answer 24/7 for exactly this situation, and getting a licensed pro on site quickly is usually what separates a repair bill from a remediation file.
+For a leaking tank at a rental, day or night, call our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line at [(506) 806-0900](tel:+15068060900). We answer 24/7 for exactly this situation, and getting a licensed pro on site quickly is usually what separates a repair bill from a remediation file.
 
 ## Smart Moves Before Your Next Lease Turnover
 

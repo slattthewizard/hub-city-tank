@@ -21,7 +21,7 @@ That same home heated mostly by cold-climate heat pumps might add $1,300 to $1,8
 
 But running cost is only half the story. A fully ducted cold-climate heat pump system can cost $16,000 to $25,000 installed. A new oil tank, by comparison, usually lands between $2,400 and $3,500. And on the coldest nights of a New Brunswick February, plenty of heat pump owners are very glad they kept their oil furnace as backup.
 
-If this decision got dropped in your lap by an insurance letter about an old tank, don't panic and don't rush into a $20,000 conversion just to make the letter go away. Call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact) on the tank side of the equation first. Once you know what a new tank actually costs, the rest of the math gets a lot easier.
+If this decision got dropped in your lap by an insurance letter about an old tank, don't panic and don't rush into a $20,000 conversion just to make the letter go away. Call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact) on the tank side of the equation first. Once you know what a new tank actually costs, the rest of the math gets a lot easier.
 
 ## What Oil Heat Costs to Run in Greater Moncton
 
@@ -89,7 +89,7 @@ The Boudreau family in Shediac learned this the reassuring way. During a Februar
 
 There's a power-outage angle too. Heat pumps and electric backup both die with the grid. An oil furnace still needs electricity for its burner and blower, but it can run on a small generator that would never keep up with electric heat.
 
-One caution if you go hybrid: an oil tank that only gets topped up once a year needs a little more attention, not less. Condensation builds in a tank that sits half empty through the summer, and water in the tank leads to corrosion from the inside out. Keep it full in the off-season, get it looked at during your furnace tune-up, and never ignore a wet spot or an oil smell. If you ever do find oil where it shouldn't be, stop guessing and call a professional right away. A leak is not a DIY problem, and our 24/7 emergency line at [(506) 802-3471](tel:+15068023471) exists for exactly that moment.
+One caution if you go hybrid: an oil tank that only gets topped up once a year needs a little more attention, not less. Condensation builds in a tank that sits half empty through the summer, and water in the tank leads to corrosion from the inside out. Keep it full in the off-season, get it looked at during your furnace tune-up, and never ignore a wet spot or an oil smell. If you ever do find oil where it shouldn't be, stop guessing and call a professional right away. A leak is not a DIY problem, and our 24/7 emergency line at [(506) 806-0900](tel:+15068060900) exists for exactly that moment.
 
 And if you do eventually go all-electric, that old tank shouldn't just sit there. An out-of-service tank can still leak, and insurers don't like them. Our [oil tank removal service in Moncton](/oil-tank-removal-moncton/) takes care of pump-out, disconnection, and disposal with the paperwork to prove it.
 

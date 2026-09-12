@@ -35,7 +35,7 @@ Day after day, the water builds. It pools on the tank floor, right where you can
 
 Here's the part that matters most: a tank failing from internal corrosion usually looks fine from the outside until the week it doesn't.
 
-If that last line made you glance toward your basement or backyard, give us a call at [(506) 802-3471](tel:+15068023471). Having Hub City Tank Co look over your tank costs you nothing, and the written estimate is free.
+If that last line made you glance toward your basement or backyard, give us a call at [(506) 806-0900](tel:+15068060900). Having Hub City Tank Co look over your tank costs you nothing, and the written estimate is free.
 
 ## A Full Oil Tank Fights Summer Condensation for You
 
@@ -107,7 +107,7 @@ A quick word on those insurance letters, because we hear the panic in people's v
 
 And if you ever find fresh oil under or around your tank, treat it as urgent no matter the season. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) runs 24/7 across Greater Moncton for exactly that situation, because a leak in July is every bit as serious as one in January.
 
-For everything short of an emergency, the path is easy. [Request a free written estimate](/#contact) or call [(506) 802-3471](tel:+15068023471). We're licensed, insured and local, and we'll tell you straight whether your tank needs replacing, watching, or just a good summer fill.
+For everything short of an emergency, the path is easy. [Request a free written estimate](/#contact) or call [(506) 806-0900](tel:+15068060900). We're licensed, insured and local, and we'll tell you straight whether your tank needs replacing, watching, or just a good summer fill.
 
 ## Frequently Asked Questions
 

@@ -11,7 +11,7 @@ You head downstairs for a load of laundry and it hits you halfway down the stair
 
 Here's the good news up front. Most of the time, that oil smell in the basement traces back to something small. A few drips at the filter. A bit of spilled oil from your last delivery. A fitting that needs a quarter turn with a wrench. But sometimes it's the first warning of a leaking tank, and catching that early can be the difference between a $300 repair and a five-figure cleanup.
 
-This guide walks you through what causes the smell, what to check first, and when it's time to put the flashlight down and call someone with a licence and insurance. And if you're smelling oil right now and want a real person on the line, call us at [(506) 802-3471](tel:+15068023471). Advice over the phone is free.
+This guide walks you through what causes the smell, what to check first, and when it's time to put the flashlight down and call someone with a licence and insurance. And if you're smelling oil right now and want a real person on the line, call us at [(506) 806-0900](tel:+15068060900). Advice over the phone is free.
 
 ## Why Your Basement Smells Like Heating Oil
 
@@ -49,7 +49,7 @@ Don't panic, and don't ignore it either. Here's the order of operations we give 
 
 **6. Don't scrub yet.** If you find fresh oil, soak it up with kitty litter, floor-dry, or paper towels. Don't hose it down or hit it with strong cleaners before someone looks at it. Washing oil toward a floor drain turns a small problem into an environmental one.
 
-If you find dripping oil, a wet tank bottom, or the smell is strong enough to drive you back upstairs, stop there. Call our 24/7 line at [(506) 802-3471](tel:+15068023471) and we'll talk you through it. If it's a true leak, our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) covers nights and weekends, because tanks don't check the calendar before they let go.
+If you find dripping oil, a wet tank bottom, or the smell is strong enough to drive you back upstairs, stop there. Call our 24/7 line at [(506) 806-0900](tel:+15068060900) and we'll talk you through it. If it's a true leak, our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) covers nights and weekends, because tanks don't check the calendar before they let go.
 
 ## How to Tell a Nuisance Smell From a Real Leak
 
@@ -114,7 +114,7 @@ And one more that people wait too long on: an insurance letter about your tank's
 
 An inspection with us is straightforward. We check the tank, line, filter, fittings, and venting, find the source of the smell, and give you a free written estimate for whatever it needs, whether that's a $200 fix or a full [oil tank replacement in Moncton](/oil-tank-replacement-moncton/). No pressure, no scare tactics, just photos and numbers you can make a decision with.
 
-We're licensed and insured, we work across Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, and Sackville, and we answer the phone at [(506) 802-3471](tel:+15068023471) around the clock for leak emergencies. Or [request your free estimate online](/#contact) and we'll get back to you fast.
+We're licensed and insured, we work across Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, and Sackville, and we answer the phone at [(506) 806-0900](tel:+15068060900) around the clock for leak emergencies. Or [request your free estimate online](/#contact) and we'll get back to you fast.
 
 Your basement shouldn't smell like a fuel depot. Find the source, fix it small, and you'll never have to find out what the right side of that cost table feels like.
 
@@ -134,4 +134,4 @@ It depends entirely on the source. Simple cleanup of delivery drips can be free,
 
 ### Who do I call if oil has actually spilled in New Brunswick?
 
-If oil has leaked into soil, a drain, a sump, or groundwater, New Brunswick requires the spill to be reported. Call the 24-hour environmental emergency line for the Maritimes at 1-800-565-1633, and your insurance company as well. For the tank itself, call a licensed contractor to stop the source and remove or replace the tank. Our emergency line at (506) 802-3471 is answered 24/7 for exactly this situation.
+If oil has leaked into soil, a drain, a sump, or groundwater, New Brunswick requires the spill to be reported. Call the 24-hour environmental emergency line for the Maritimes at 1-800-565-1633, and your insurance company as well. For the tank itself, call a licensed contractor to stop the source and remove or replace the tank. Our emergency line at (506) 806-0900 is answered 24/7 for exactly this situation.

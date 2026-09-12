@@ -21,7 +21,7 @@ Give the gauge a gentle tap. If the red indicator drops, you've got oil and your
 
 While you're at it, rule out the simple stuff. Check that the furnace emergency switch (the red wall switch that looks like a light switch) didn't get bumped off. Check the breaker. Check the thermostat batteries. If the tank has oil but the burner won't fire, the issue is likely in the fuel line or filter, and our guide on [a furnace not getting oil](/blog/furnace-not-getting-oil/) walks through the usual suspects.
 
-One more check before anything else: look under and around the tank. If you see a wet spot, smell a strong oil odour, or the tank looks like it's weeping along a seam, stop right there. That's not a run-out, that could be a leak, and in New Brunswick spills need to be reported to the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html). Call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471) and we'll walk you through it. Our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) exists for exactly this situation.
+One more check before anything else: look under and around the tank. If you see a wet spot, smell a strong oil odour, or the tank looks like it's weeping along a seam, stop right there. That's not a run-out, that could be a leak, and in New Brunswick spills need to be reported to the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html). Call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900) and we'll walk you through it. Our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) exists for exactly this situation.
 
 ## What Happens Inside the Tank When You Run Dry
 
@@ -90,7 +90,7 @@ Third, take repeated run-outs seriously, because sometimes the tank is the probl
 
 If that story sounds familiar, it's worth getting eyes on your tank. We do free written estimates across Moncton, Dieppe, Riverview, and the surrounding counties, and our [oil tank replacement service in Moncton](/oil-tank-replacement-moncton/) can usually swap a tank within days, not weeks. [Request your free estimate here](/#contact) and we'll tell you straight whether your tank has years left or is due.
 
-A dry tank on a cold night feels like a crisis, but it's one with a clear fix: confirm it's empty, get fuel in, restart once, and deal with the filter. Then spend twenty minutes making sure it never happens again. And if your run-out came with an oil smell, a wet spot, or a tank you don't trust anymore, don't wait on it. Call us any time at [(506) 802-3471](tel:+15068023471). We're local, we're licensed and insured, and we answer the phone in the middle of the night for a reason.
+A dry tank on a cold night feels like a crisis, but it's one with a clear fix: confirm it's empty, get fuel in, restart once, and deal with the filter. Then spend twenty minutes making sure it never happens again. And if your run-out came with an oil smell, a wet spot, or a tank you don't trust anymore, don't wait on it. Call us any time at [(506) 806-0900](tel:+15068060900). We're local, we're licensed and insured, and we answer the phone in the middle of the night for a reason.
 
 ## Frequently Asked Questions
 

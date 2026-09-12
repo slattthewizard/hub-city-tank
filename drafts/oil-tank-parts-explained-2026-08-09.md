@@ -21,7 +21,7 @@ That's why delivery companies and insurance companies pay so much attention to t
 
 The good news is that most oil tank parts are cheap to fix compared to what they protect. A vent whistle costs less than a night out in downtown Moncton. A basement oil spill cleanup routinely runs $10,000 to $50,000, and sometimes far more. Small parts, big stakes.
 
-If a driver or inspector has already flagged something on your tank and you're not sure how serious it is, [call us at (506) 802-3471](tel:+15068023471). We'll tell you straight whether it's a quick fix or a bigger conversation, and the estimate is free and in writing.
+If a driver or inspector has already flagged something on your tank and you're not sure how serious it is, [call us at (506) 806-0900](tel:+15068060900). We'll tell you straight whether it's a quick fix or a bigger conversation, and the estimate is free and in writing.
 
 ## The Fill Pipe: Where Every Litre Starts
 
@@ -61,7 +61,7 @@ The lesson isn't to ignore your gauge. It's to test it. Track your usage between
 
 Everything below the tank is about getting oil to your furnace cleanly and giving you a way to stop it fast.
 
-The shut-off valve sits at the tank outlet, and it's exactly what it sounds like: a tap that stops oil from leaving the tank. In an emergency, this valve is your first move. The problem is that valves seize. A valve that hasn't been turned in fifteen years can be rusted solid exactly when you need it most. If you ever find yours seized during a leak, don't crank on it with a wrench. Old fittings snap, and a snapped fitting turns a drip into a flood. That's the moment to stop and call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471).
+The shut-off valve sits at the tank outlet, and it's exactly what it sounds like: a tap that stops oil from leaving the tank. In an emergency, this valve is your first move. The problem is that valves seize. A valve that hasn't been turned in fifteen years can be rusted solid exactly when you need it most. If you ever find yours seized during a leak, don't crank on it with a wrench. Old fittings snap, and a snapped fitting turns a drip into a flood. That's the moment to stop and call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900).
 
 Downstream of the valve sits the oil filter, a small canister that traps sludge, rust flakes, and water before they reach your burner. A clogged filter starves the furnace and is one of the most common causes of no-heat calls in Greater Moncton every winter.
 

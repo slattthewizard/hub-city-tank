@@ -13,7 +13,7 @@ Here's the good news. The oil tank replacement process is faster and less disrup
 
 This guide walks you through the whole job, from the first phone call to the moment your furnace fires back up on the new tank. By the end you'll know what happens at each step, roughly what it costs, and how to spot a contractor who's cutting corners.
 
-If you'd rather skip the reading and just talk it through, call us at [(506) 802-3471](tel:+15068023471). We give free written estimates across Moncton, Dieppe, Riverview, and the rest of Southeast New Brunswick.
+If you'd rather skip the reading and just talk it through, call us at [(506) 806-0900](tel:+15068060900). We give free written estimates across Moncton, Dieppe, Riverview, and the rest of Southeast New Brunswick.
 
 ## How the Oil Tank Replacement Process Starts: The Estimate
 
@@ -124,7 +124,7 @@ Now the other side of it. Do not drain the tank yourself, and don't loosen a sin
 
 Same goes for moving a partly full tank, cutting up an old one, or reusing the old oil line to save a few dollars. The tools are cheap. The mistakes aren't. This is one of those jobs where paying a licensed and insured crew is genuinely the frugal choice.
 
-When you're ready, call [(506) 802-3471](tel:+15068023471). Free written estimates, licensed and insured, and a 24/7 emergency line if your tank is leaking right now. We cover Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, and Sackville.
+When you're ready, call [(506) 806-0900](tel:+15068060900). Free written estimates, licensed and insured, and a 24/7 emergency line if your tank is leaking right now. We cover Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, and Sackville.
 
 ## Frequently Asked Questions
 

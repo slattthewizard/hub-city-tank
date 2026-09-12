@@ -19,7 +19,7 @@ Oil tanks are exposed to all of it for three reasons. First, outdoor tanks usual
 
 Basement tanks aren't safe either. If your basement takes on water, an indoor tank can shift, corrode from the outside, or end up with a flooded burner and controls beside it.
 
-If you're not sure whether your tank sits in a vulnerable spot, that's an easy thing to settle. Call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact) and we'll look at the tank, the pad and the grade around it, and tell you plainly what's worth doing and what isn't.
+If you're not sure whether your tank sits in a vulnerable spot, that's an easy thing to settle. Call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact) and we'll look at the tank, the pad and the grade around it, and tell you plainly what's worth doing and what isn't.
 
 ## What Flood Water Does to a Residential Oil Tank
 
@@ -88,7 +88,7 @@ Sometimes the forecast doesn't give you weeks. If flooding is expected within da
 
 **Shut down the furnace before water reaches it.** A flooded burner is a repair job. A running burner hit by water can be worse.
 
-**Do not try to hold, brace or rope a floating tank during a flood.** A moving tank full of oil in moving water is a machine for breaking bones. Stay out of flood water around a tank, full stop. If the tank is leaking, get clear and call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471).
+**Do not try to hold, brace or rope a floating tank during a flood.** A moving tank full of oil in moving water is a machine for breaking bones. Stay out of flood water around a tank, full stop. If the tank is leaking, get clear and call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900).
 
 ## After the Water Drops: Check Before You Fire the Furnace
 
@@ -118,4 +118,4 @@ Usually, yes. Repeated shallow flooding keeps stressing the supports and the lin
 
 ### What should I do if my tank tipped over or is leaking after a flood?
 
-Stay out of the water around it, keep ignition sources away, and close the shutoff valve only if you can reach it without wading. Then call for help right away, because leaked oil spreads fast in wet ground. In New Brunswick, spills must also be reported to the 24-hour environmental emergency line. Call us at (506) 802-3471 any time, day or night, and we'll walk you through it and get someone out.
+Stay out of the water around it, keep ignition sources away, and close the shutoff valve only if you can reach it without wading. Then call for help right away, because leaked oil spreads fast in wet ground. In New Brunswick, spills must also be reported to the 24-hour environmental emergency line. Call us at (506) 806-0900 any time, day or night, and we'll walk you through it and get someone out.

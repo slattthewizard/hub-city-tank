@@ -29,7 +29,7 @@ Buried tanks are a different story, and we'll get into why further down. Here's 
 
 These are ranges, not promises, because every house is a little different. A tank wedged behind a finished basement wall in Riverview costs more to get out than one sitting in an open garage in Salisbury. That's why we do free written estimates instead of guessing over the phone.
 
-Want a firm number for your exact situation? Call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact). We'll look at the tank, the access, and the oil level, then put a price in writing before any work starts.
+Want a firm number for your exact situation? Call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact). We'll look at the tank, the access, and the oil level, then put a price in writing before any work starts.
 
 ## What Changes Your Oil Tank Removal Price
 
@@ -43,7 +43,7 @@ Two neighbours on the same street in Moncton can get quotes hundreds of dollars 
 
 **Sludge at the bottom.** Decades of condensation and settling leave a layer of water and sludge in most old tanks. That material can't go down a drain or into the garbage. Proper disposal is part of an honest quote, and it's one of the line items lowball quotes tend to leave out.
 
-**Season and urgency.** A planned removal in June is straightforward. An emergency removal in a February cold snap, with a leaking tank and a furnace that still needs to run, involves more urgency and sometimes temporary fuel arrangements. If that's your situation right now, skip the rest of this article and call our 24/7 line at [(506) 802-3471](tel:+15068023471).
+**Season and urgency.** A planned removal in June is straightforward. An emergency removal in a February cold snap, with a leaking tank and a furnace that still needs to run, involves more urgency and sometimes temporary fuel arrangements. If that's your situation right now, skip the rest of this article and call our 24/7 line at [(506) 806-0900](tel:+15068060900).
 
 **Above ground or buried.** This is the biggest fork in the road, so it gets its own section below.
 
@@ -93,7 +93,7 @@ The cheapest quote in your inbox isn't always the cheapest job on your final inv
 
 **Beware the too-good number.** A $200 removal quote usually means the sludge, the fuel, or the disposal fee is missing from it, or the tank is headed somewhere it shouldn't go. In a province where improper disposal can land back on the homeowner, that's no bargain at all.
 
-We keep it simple: one written estimate, licensed and insured crews, and the price we quote is the price you pay. Call [(506) 802-3471](tel:+15068023471) or [book your free estimate online](/#contact), and we'll give you a real number for your tank, usually within a day or two.
+We keep it simple: one written estimate, licensed and insured crews, and the price we quote is the price you pay. Call [(506) 806-0900](tel:+15068060900) or [book your free estimate online](/#contact), and we'll give you a real number for your tank, usually within a day or two.
 
 ## Frequently Asked Questions
 

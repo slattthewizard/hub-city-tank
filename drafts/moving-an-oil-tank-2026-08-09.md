@@ -11,7 +11,7 @@ You're planning a new deck, and your oil tank is sitting exactly where the stair
 
 The short answer is yes, moving an oil tank is possible, and it's done all the time. The longer answer is that it's a fuel system job, not a furniture job. There are code rules about where the tank can go, real risks if it's done wrong, and a surprisingly common situation where moving the tank costs almost as much as replacing it. This article walks through all of it, with real numbers from jobs around Moncton, Dieppe, Riverview, and out along the Shediac road.
 
-If you'd rather just get a straight answer for your own yard, [request a free written estimate](/#contact) or call us at [(506) 802-3471](tel:+15068023471). We'll tell you honestly whether your tank is worth moving.
+If you'd rather just get a straight answer for your own yard, [request a free written estimate](/#contact) or call us at [(506) 806-0900](tel:+15068060900). We'll tell you honestly whether your tank is worth moving.
 
 ## Why Homeowners End Up Moving an Oil Tank
 
@@ -57,7 +57,7 @@ Here's the honest sequence for a typical outdoor tank relocation, so you know wh
 
 **6. Leak check, bleed, and fire the burner.** Every joint gets checked, the line gets bled of air, and the furnace or boiler gets run and confirmed before we leave.
 
-Now the safety part, and we mean this. Moving the empty tank shell a short distance is muscle work, but everything on either side of that is fuel system work. Pumping oil, breaking fittings, running new line, and bleeding a burner are jobs for a licensed technician. We've been called to more than one basement that smelled like a fuel depot because a well-meaning homeowner cracked a flare fitting and "snugged it back up." If you smell oil at any point, stop and call. Our emergency line at [(506) 802-3471](tel:+15068023471) answers 24/7.
+Now the safety part, and we mean this. Moving the empty tank shell a short distance is muscle work, but everything on either side of that is fuel system work. Pumping oil, breaking fittings, running new line, and bleeding a burner are jobs for a licensed technician. We've been called to more than one basement that smelled like a fuel depot because a well-meaning homeowner cracked a flare fitting and "snugged it back up." If you smell oil at any point, stop and call. Our emergency line at [(506) 806-0900](tel:+15068060900) answers 24/7.
 
 ## Oil Tank Relocation Cost in Greater Moncton
 
@@ -104,7 +104,7 @@ If you're going to move a tank, or install a new one at a better location, choos
 
 One more thing worth knowing: a good chunk of "move my tank" calls turn into a bigger conversation, because the best new spot is sometimes inside the basement instead of out in the weather, or the other way around. Each option has trade-offs for lifespan, smell, and winter reliability, and we've laid those out in our comparison of [indoor versus outdoor oil tanks](/blog/indoor-vs-outdoor-oil-tank/).
 
-Ready for a real number instead of a range? [Get your free written estimate](/#contact) or call [(506) 802-3471](tel:+15068023471). We'll look at the tank, the yard, and the paperwork, and tell you straight whether moving an oil tank makes sense at your place or whether that money belongs in a new tank at the right spot.
+Ready for a real number instead of a range? [Get your free written estimate](/#contact) or call [(506) 806-0900](tel:+15068060900). We'll look at the tank, the yard, and the paperwork, and tell you straight whether moving an oil tank makes sense at your place or whether that money belongs in a new tank at the right spot.
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ On its own, a CSA standard is just a document. What gives it teeth in New Brunsw
 
 Here's the practical version. If your tank was installed by a licensed professional to CSA B139, you have a system that's safer, insurable, and sellable. If it wasn't, you may not find out until the worst possible moment: an insurance renewal, a home sale, or a leak.
 
-If you're staring at an insurance letter right now and you're not sure where your tank stands, call us at [(506) 802-3471](tel:+15068023471). We'll tell you straight whether it's a real problem or just paperwork.
+If you're staring at an insurance letter right now and you're not sure where your tank stands, call us at [(506) 806-0900](tel:+15068060900). We'll tell you straight whether it's a real problem or just paperwork.
 
 ## The CSA B139 Oil Tank Requirements That Matter Most at Home
 
@@ -101,7 +101,7 @@ If any of that walk-around turns up something you don't like, don't wait for the
 
 One last story, because timing matters here. Paulette in Salisbury noticed her outdoor tank leaning in November and figured it could wait until spring. In mid-January the settled leg dropped further, the line kinked, and her furnace locked out on a -18 night. The emergency call, temporary fix, and follow-up replacement came to about $4,100 all in. Booked in November, the same replacement would have been $3,200 and zero cold nights. Code compliance isn't just about passing inspections. It's about not gambling with February.
 
-Ready to know where your tank stands? Call [(506) 802-3471](tel:+15068023471) or [request your free written estimate](/#contact) and we'll give you a straight answer, in writing.
+Ready to know where your tank stands? Call [(506) 806-0900](tel:+15068060900) or [request your free written estimate](/#contact) and we'll give you a straight answer, in writing.
 
 ## Frequently Asked Questions
 

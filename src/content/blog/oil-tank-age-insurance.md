@@ -35,7 +35,7 @@ Since no insurer can look inside every tank in New Brunswick, they use age as a 
 
 So the age limit isn't personal. It's math. If you want the full picture on tank lifespans, our guide on [how long oil tanks last](/blog/how-long-do-oil-tanks-last/) breaks it down by tank type and location.
 
-If you've already got a deadline from your insurer and the clock is ticking, [call us at (506) 802-3471](tel:+15068023471). We give free written estimates, we're licensed and insured, and we can usually get a replacement done well inside a 30 day window.
+If you've already got a deadline from your insurer and the clock is ticking, [call us at (506) 806-0900](tel:+15068060900). We give free written estimates, we're licensed and insured, and we can usually get a replacement done well inside a 30 day window.
 
 ## Oil Tank Age Insurance Limits: What NB Companies Actually Use
 
@@ -109,7 +109,7 @@ Waiting, on the other hand, has exactly one advantage: you keep $3,000 in your p
 
 If your tank is past 15 years and you haven't heard from your insurer yet, you will. The companies serving New Brunswick have been tightening tank rules year over year, and renewals that sailed through last time are getting questions this time.
 
-One safety note before anything else. If you can smell oil, see a wet spot under the tank, or spot a drip at a fitting, stop reading and get help now. Don't try to patch, tip, drain, or move a tank yourself. A full 910 litre tank weighs close to a tonne, and a small leak disturbed the wrong way becomes a big one fast. Call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471) and report any spill to the province as required.
+One safety note before anything else. If you can smell oil, see a wet spot under the tank, or spot a drip at a fitting, stop reading and get help now. Don't try to patch, tip, drain, or move a tank yourself. A full 910 litre tank weighs close to a tonne, and a small leak disturbed the wrong way becomes a big one fast. Call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900) and report any spill to the province as required.
 
 For everyone else, the move is simple. Find your tank's age this week, take a photo of the nameplate, and if you're inside five years of your insurer's likely limit, get a written quote so the decision is yours instead of an underwriter's. We serve Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, Sackville, and everywhere in between, and the estimate costs you nothing.
 

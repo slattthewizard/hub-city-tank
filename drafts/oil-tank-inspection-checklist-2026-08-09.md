@@ -19,7 +19,7 @@ The gap between catching it early and catching it late is enormous. A weeping fi
 
 There's an insurance angle too. Most insurers in New Brunswick now ask about your tank's age and condition at renewal, and some send letters demanding replacement of tanks over 15 or 20 years old. Homeowners who check their own tanks twice a year almost never get blindsided by those letters, because they already know what shape their tank is in.
 
-If you'd rather have a second set of eyes on it, that's literally what we do. Call Hub City Tank Co at [(506) 802-3471](tel:+15068023471) and we'll take a look and give you a free written estimate, no pressure attached.
+If you'd rather have a second set of eyes on it, that's literally what we do. Call Hub City Tank Co at [(506) 806-0900](tel:+15068060900) and we'll take a look and give you a free written estimate, no pressure attached.
 
 ## The 10-Minute Oil Tank Inspection Checklist, Step by Step
 
@@ -96,7 +96,7 @@ Add a quick bonus check after any big event. A delivery, a windstorm, a roof ava
 
 If you want a sense of how seriously regulators treat tank corrosion, the U.S. EPA's [underground storage tank program](https://www.epa.gov/ust) exists almost entirely because small, slow leaks kept turning into massive groundwater problems. Massachusetts went as far as passing a [homeowner oil heating law](https://www.mass.gov/info-details/homeowner-oil-heating-system-upgrade-and-insurance-law) requiring leak-prevention upgrades on home systems. New Brunswick hasn't gone that far for residential tanks, but insurers here are quietly enforcing the same idea through their renewal letters.
 
-Ten minutes, twice a year. That's the whole ask. And if your checklist turns up something you don't like, call us at [(506) 802-3471](tel:+15068023471). We'll tell you straight whether it's a monitor-it situation or a fix-it-now situation, in writing, for free.
+Ten minutes, twice a year. That's the whole ask. And if your checklist turns up something you don't like, call us at [(506) 806-0900](tel:+15068060900). We'll tell you straight whether it's a monitor-it situation or a fix-it-now situation, in writing, for free.
 
 ## Frequently Asked Questions
 

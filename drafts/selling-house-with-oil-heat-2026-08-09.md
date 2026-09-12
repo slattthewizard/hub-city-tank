@@ -54,7 +54,7 @@ Here's how those numbers play out in real life. Karen in Riverview listed her bu
 
 Compare that to what happens when a problem hides until inspection. Marc and Josée were selling a 1960s cottage-style home near Shediac when the buyer's inspector spotted a vent pipe poking out of a flower bed. It led to a buried tank nobody had mentioned in 30 years. The buyers threatened to walk, then demanded a $15,000 price cut to cover unknowns. Instead, Marc had the tank pulled and the soil checked for $4,600, showed the buyers a clean report, and gave up nothing on price. Finding it before listing would have saved him three very stressful weeks.
 
-If you're not sure which column you fall into, call us at [(506) 802-3471](tel:+15068023471). We'll give you a straight answer about whether your tank needs anything at all.
+If you're not sure which column you fall into, call us at [(506) 806-0900](tel:+15068060900). We'll give you a straight answer about whether your tank needs anything at all.
 
 ## Selling a Home With Oil Heat: Build a Paperwork Package
 
@@ -94,7 +94,7 @@ So assume your buyer will arrive with those questions. When your listing already
 
 That's really the whole strategy when selling a house with oil heat: take every unknown off the table before someone else prices the unknown for you. A tank question answered in July costs you a phone call. The same question raised during conditions week in October costs you money, time, or both.
 
-If you're planning a sale anywhere in Westmorland, Albert or Kent counties, we're happy to look at your tank and tell you plainly whether it's a selling point or a liability. [Book a free written estimate](/#contact) or call [(506) 802-3471](tel:+15068023471), and if you ever find a leak while prepping the house, use that same number, our emergency line answers 24/7.
+If you're planning a sale anywhere in Westmorland, Albert or Kent counties, we're happy to look at your tank and tell you plainly whether it's a selling point or a liability. [Book a free written estimate](/#contact) or call [(506) 806-0900](tel:+15068060900), and if you ever find a leak while prepping the house, use that same number, our emergency line answers 24/7.
 
 ## Frequently Asked Questions
 

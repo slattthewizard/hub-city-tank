@@ -33,7 +33,7 @@ Insurance companies are getting stricter. If your tank is past 15 or 20 years ol
 
 And the grant money is real. Federal and provincial programs have made this the cheapest window in years to switch, especially for households that qualify for income tested funding. We'll get into the details further down.
 
-None of that means a heat pump is automatically right for your house. It means the question deserves real numbers instead of guesswork. If part of your decision is what to do with an aging tank, [request a free written estimate](/#contact) or call us at [(506) 802-3471](tel:+15068023471). We'll give you a straight answer on the tank side either way, whether you're replacing it or getting rid of it.
+None of that means a heat pump is automatically right for your house. It means the question deserves real numbers instead of guesswork. If part of your decision is what to do with an aging tank, [request a free written estimate](/#contact) or call us at [(506) 806-0900](tel:+15068060900). We'll give you a straight answer on the tank side either way, whether you're replacing it or getting rid of it.
 
 ## What an Oil to Heat Pump Conversion in Moncton Actually Costs
 
@@ -97,7 +97,7 @@ Marc and Lise Cormier in Shediac did it right. After their full conversion, a $1
 
 Above ground tank removal is usually a few hundred dollars and a couple of hours. Buried tanks are a different story, with excavation and soil checks involved, which is why they run $2,500 and up. Our [oil tank removal cost guide](/blog/oil-tank-removal-cost/) breaks down what drives the price in either case.
 
-One safety note. Never cut up, drain, or move a tank yourself. Even an "empty" tank holds residual oil and vapour, and one slip means a contaminated basement floor or worse. This is exactly the point where DIY should stop and a licensed crew should take over. Our [oil tank removal service](/oil-tank-removal-moncton/) covers Moncton and everywhere from Sackville to Shediac, and the estimate is free and in writing. Call [(506) 802-3471](tel:+15068023471) and we'll tell you exactly what your removal would cost.
+One safety note. Never cut up, drain, or move a tank yourself. Even an "empty" tank holds residual oil and vapour, and one slip means a contaminated basement floor or worse. This is exactly the point where DIY should stop and a licensed crew should take over. Our [oil tank removal service](/oil-tank-removal-moncton/) covers Moncton and everywhere from Sackville to Shediac, and the estimate is free and in writing. Call [(506) 806-0900](tel:+15068060900) and we'll tell you exactly what your removal would cost.
 
 ## Grants and Rebates for New Brunswick Homeowners
 

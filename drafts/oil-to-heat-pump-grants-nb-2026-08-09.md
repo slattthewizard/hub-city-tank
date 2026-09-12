@@ -19,7 +19,7 @@ Heating oil is one of the most expensive ways to keep a house warm in New Brunsw
 
 Governments want people off oil for climate reasons. Homeowners want off oil for wallet reasons. Insurance companies are pushing from a third direction, sending those letters demanding proof your tank is under 15 or 20 years old. Put all three together and you get the richest pile of conversion money this province has ever seen.
 
-One honest note before we get into the programs. Grant paperwork takes weeks, sometimes months, and rusty tanks don't wait politely. If your tank is leaning, weeping at a seam, or pushing 25 years old, get it looked at now, grants or no grants. [Call us at (506) 802-3471](tel:+15068023471) and we'll give you a free written estimate, no pressure attached.
+One honest note before we get into the programs. Grant paperwork takes weeks, sometimes months, and rusty tanks don't wait politely. If your tank is leaning, weeping at a seam, or pushing 25 years old, get it looked at now, grants or no grants. [Call us at (506) 806-0900](tel:+15068060900) and we'll give you a free written estimate, no pressure attached.
 
 ## The Oil to Heat Pump Affordability Grant: The Big Federal One
 
@@ -89,7 +89,7 @@ The single biggest mistake we see is homeowners signing an install contract befo
 
 And if the numbers just don't work for you this year, that's a legitimate outcome too. Roland in Sackville ran the math last winter, landed a bit over the income threshold, and decided a panel upgrade plus a heat pump wasn't in the cards yet. He replaced his 26-year-old tank with a new double-bottom model for $3,300 installed, kept his insurer happy, and plans to revisit the grants in a few years. A safe, insurable [oil tank replacement](/oil-tank-replacement-moncton/) buys you a decade or more to convert on your own schedule. If you're weighing that same fork in the road, our guide to [converting from oil to a heat pump in Moncton](/blog/oil-to-heat-pump-conversion-moncton/) walks through the local details.
 
-Either way, the wrong move is doing nothing while an old tank keeps aging over your basement floor. [Call (506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact) and we'll help you figure out which path fits, with real numbers for your house.
+Either way, the wrong move is doing nothing while an old tank keeps aging over your basement floor. [Call (506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact) and we'll help you figure out which path fits, with real numbers for your house.
 
 ## Frequently Asked Questions
 
@@ -107,4 +107,4 @@ Plan on several weeks to a few months from application to approval, which is why
 
 ### What if my tank starts leaking while I'm waiting on grant approval?
 
-Stop everything and deal with the leak first, because a spill can cost more than ten conversions. Shut off the tank valve if it's safe to reach, keep ignition sources away, and call our 24/7 line at (506) 802-3471. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) covers leaking and failing tanks across Greater Moncton, and a controlled same-week removal is always cheaper than a cleanup.
+Stop everything and deal with the leak first, because a spill can cost more than ten conversions. Shut off the tank valve if it's safe to reach, keep ignition sources away, and call our 24/7 line at (506) 806-0900. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) covers leaking and failing tanks across Greater Moncton, and a controlled same-week removal is always cheaper than a cleanup.

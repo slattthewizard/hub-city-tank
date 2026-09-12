@@ -35,7 +35,7 @@ Only then does the tank actually move. Basement tanks often need to be tipped, d
 
 Gerald in Riverview found this out last fall. His 35-year-old basement tank failed an insurance inspection, and he figured he'd save money by hauling it out himself before the new one arrived. One tipped tank and a soaked patch of concrete later, he called us. The pump-out, removal, and disposal came to $420, which felt like a bargain compared to what a bigger spill would have cost him. His replacement tank, installed and inspected, ran $3,350.
 
-If your tank is on its way out, don't wait for a Gerald moment. Call us at [(506) 802-3471](tel:+15068023471) for a free written estimate on [oil tank removal in Moncton](/oil-tank-removal-moncton/), and we'll handle the disposal end to end.
+If your tank is on its way out, don't wait for a Gerald moment. Call us at [(506) 806-0900](tel:+15068060900) for a free written estimate on [oil tank removal in Moncton](/oil-tank-removal-moncton/), and we'll handle the disposal end to end.
 
 ## How Oil Tank Disposal Works, Step by Step
 
@@ -114,7 +114,7 @@ When a buried tank comes out, disposal follows the same chain as an above-ground
 
 Some homeowners ask about filling an old tank with sand and leaving it there. That's called abandonment in place, and while it's sometimes allowed, it rarely helps when you're selling, and it never makes the tank disappear from a property disclosure. We compare the options honestly in our post on [abandoning an oil tank in place](/blog/abandon-oil-tank-in-place/).
 
-If you suspect there's a tank under your lawn in Dieppe, Sackville, or anywhere in between, our [buried oil tank removal service in Moncton](/buried-oil-tank-removal-moncton/) starts with locating and assessing before anyone brings in an excavator. It's a lot cheaper to know than to guess. Call [(506) 802-3471](tel:+15068023471) or [book a free written estimate](/#contact), and we'll haul the whole problem away with one trip and one receipt.
+If you suspect there's a tank under your lawn in Dieppe, Sackville, or anywhere in between, our [buried oil tank removal service in Moncton](/buried-oil-tank-removal-moncton/) starts with locating and assessing before anyone brings in an excavator. It's a lot cheaper to know than to guess. Call [(506) 806-0900](tel:+15068060900) or [book a free written estimate](/#contact), and we'll haul the whole problem away with one trip and one receipt.
 
 ## Frequently Asked Questions
 

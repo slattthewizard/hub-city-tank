@@ -2,7 +2,7 @@
 title: "Granby vs Roth Oil Tanks: An Honest Comparison"
 navTitle: "Granby vs Roth Oil Tanks: An"
 metaTitle: "Granby vs Roth Oil Tank: An Honest Moncton Comparison"
-metaDescription: "Granby vs Roth oil tank compared for Moncton homes: real installed prices in CAD, lifespan, warranties and what insurers accept. Free estimates: (506) 802-3471."
+metaDescription: "Granby vs Roth oil tank compared for Moncton homes: real installed prices in CAD, lifespan, warranties and what insurers accept. Free estimates: (506) 806-0900."
 primaryKeyword: "granby vs roth oil tank"
 secondaryKeywords: "granby oil tank price, roth oil tank cost, roth double wall oil tank, granby tank vs roth tank, best oil tank for new brunswick"
 publishedDate: "2026-08-18"
@@ -31,7 +31,7 @@ So you call around for quotes, and every quote comes back with one of two names 
 
 They solve the same problem in two very different ways. Granby builds a better version of the traditional welded steel tank. Roth threw out the traditional design entirely and built a plastic tank inside a steel bathtub. Which approach is right for you depends on your basement, your coastline, your insurer, and your wallet.
 
-Not sure which one fits your situation? Call us at [(506) 802-3471](tel:+15068023471) and we'll talk it through. The advice is free, and so is the written estimate.
+Not sure which one fits your situation? Call us at [(506) 806-0900](tel:+15068060900) and we'll talk it through. The advice is free, and so is the written estimate.
 
 ## Granby Tanks: Proven Steel at a Working Price
 
@@ -110,7 +110,7 @@ After enough of these kitchen table conversations, the decision usually comes do
 
 One caution, and we mean it. Tank replacement is not a DIY job in New Brunswick. Oil tank installations must follow the CSA B139 installation code, and the province regulates petroleum storage under the [Petroleum Product Storage and Handling Regulation](https://laws.gnb.ca/en/document/cr/87-97). Improper installs can void your warranty, your insurance, or both, and a botched oil line connection can put hundreds of litres of oil into your basement. In the U.S., the EPA's [storage tank program](https://www.epa.gov/ust) exists precisely because leaked heating oil is so expensive to clean up, and the physics don't change at the border. Hire a licensed installer, whoever you hire.
 
-If you find a wet spot, an oil smell, or a gauge that's dropping faster than your usage, stop reading comparisons and get help now. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line answers 24/7 at [(506) 802-3471](tel:+15068023471).
+If you find a wet spot, an oil smell, or a gauge that's dropping faster than your usage, stop reading comparisons and get help now. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line answers 24/7 at [(506) 806-0900](tel:+15068060900).
 
 Otherwise, when you're ready for numbers, we'll quote both tanks for your house so you can compare real prices instead of internet ranges. [Get your free written estimate here](/#contact) or learn more about our full [oil tank replacement service in Moncton](/oil-tank-replacement-moncton/).
 

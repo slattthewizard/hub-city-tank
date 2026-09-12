@@ -9,7 +9,7 @@ secondary_keywords: "oil tank lifespan, average life of an oil tank, when to rep
 
 Here's a number that catches most homeowners off guard: the average oil tank in Greater Moncton gets replaced at around 15 years old, and it's usually an insurance company, not a leak, that makes the call. So how long do oil tanks last, really? The honest answer is anywhere from 10 to 30 years, depending on what the tank is made of, where it sits, and how it's been looked after. A bare steel tank on the windy side of a house in Shediac lives a very different life than a fibreglass tank in a dry Riverview basement.
 
-This guide breaks down realistic lifespans by tank type and location, explains why tanks in Southeast New Brunswick age faster than the brochure claims, and shows you how to tell when yours is getting close. If you'd rather have a professional put eyes on it, [call us at (506) 802-3471](tel:+15068023471) and we'll take a look.
+This guide breaks down realistic lifespans by tank type and location, explains why tanks in Southeast New Brunswick age faster than the brochure claims, and shows you how to tell when yours is getting close. If you'd rather have a professional put eyes on it, [call us at (506) 806-0900](tel:+15068060900) and we'll take a look.
 
 ## The Short Answer: Oil Tank Lifespan at a Glance
 
@@ -66,7 +66,7 @@ Marc Cormier's place in Shediac is a good example. His outdoor tank was 12 years
 
 Inland, the freeze-thaw cycle does the damage. Greater Moncton winters flip back and forth across the freezing mark dozens of times, and every flip drives another round of condensation inside the tank. Add wet springs, humid summers and the odd storm surge in low-lying areas, and it's fair to knock a few years off any lifespan estimate you read.
 
-If your tank lives within a few kilometres of the shore, or it's an outdoor steel tank past year ten anywhere in our area, it's worth an annual inspection. [Call (506) 802-3471](tel:+15068023471) and we'll check it over and give you a straight answer about how much life is left.
+If your tank lives within a few kilometres of the shore, or it's an outdoor steel tank past year ten anywhere in our area, it's worth an annual inspection. [Call (506) 806-0900](tel:+15068060900) and we'll check it over and give you a straight answer about how much life is left.
 
 ## Signs Your Oil Tank Is Near the End
 

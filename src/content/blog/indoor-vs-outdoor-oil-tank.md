@@ -35,7 +35,7 @@ Coastal homes have it even worse. If you're in Shediac, Pointe-du-Chene, or anyw
 
 And finally, cold snaps. Furnace oil doesn't freeze solid, but in a deep freeze it can thicken and gel in an outdoor tank or an exposed line, starving your furnace on the coldest night of the year. Indoor tanks simply don't have that problem.
 
-None of this means outdoor tanks are a mistake. It means location is a bigger deal here than the brochures suggest. If you'd rather talk it through with someone who installs these for a living, call Hub City Tank Co at [(506) 802-3471](tel:+15068023471). The written estimate is free, and we'll tell you honestly which setup fits your house.
+None of this means outdoor tanks are a mistake. It means location is a bigger deal here than the brochures suggest. If you'd rather talk it through with someone who installs these for a living, call Hub City Tank Co at [(506) 806-0900](tel:+15068060900). The written estimate is free, and we'll tell you honestly which setup fits your house.
 
 ## The Case for an Indoor Oil Tank
 
@@ -100,7 +100,7 @@ Go outdoors without guilt if your basement can't take a tank. A double-wall outd
 
 Think about your timeline too. If you're planning to convert to a heat pump in a couple of years, the right answer might be the simplest compliant replacement rather than the premium option. If you're staying on oil for the long haul, spend the extra few hundred dollars on the longer-lived tank and the better location.
 
-And if your current tank is leaking, weeping, or smells like oil right now, skip the deliberation. Call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471) first, and we'll sort out the indoor versus outdoor question once your home is safe. For everything else, our [oil tank replacement service in Moncton](/oil-tank-replacement-moncton/) starts with a free written estimate, and we'll recommend the location that suits your house, not the one that pads the invoice.
+And if your current tank is leaking, weeping, or smells like oil right now, skip the deliberation. Call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900) first, and we'll sort out the indoor versus outdoor question once your home is safe. For everything else, our [oil tank replacement service in Moncton](/oil-tank-replacement-moncton/) starts with a free written estimate, and we'll recommend the location that suits your house, not the one that pads the invoice.
 
 ## Frequently Asked Questions
 

@@ -35,7 +35,7 @@ Outdoor tanks get it worst. They bake in the July sun, cool off overnight, and r
 
 Marc in Shediac learned this the expensive way. His outdoor 910-litre tank sat about a quarter full from April to October. When his burner started sputtering in the fall, we dipped the tank and the water-finding paste showed almost 4 centimetres of water on the bottom. The pump-out and sludge treatment ran him $240, but the damage was already done. The tank floor was pitted with internal rust, and he ended up booking a full replacement at $3,400 before the snow flew. Six years of summer condensation did that, one drip at a time.
 
-If your tank sat low all summer, don't wait for the first cold snap to find out what's sitting in the bottom of it. Call us at [(506) 802-3471](tel:+15068023471) and we'll check it before heating season starts, not during it.
+If your tank sat low all summer, don't wait for the first cold snap to find out what's sitting in the bottom of it. Call us at [(506) 806-0900](tel:+15068060900) and we'll check it before heating season starts, not during it.
 
 **Rain and snowmelt get in through bad caps.** A cracked fill cap gasket, a missing vent cap, or a loose fitting gives rainwater a straight path into the tank. It doesn't take much. One driving rainstorm off the Northumberland Strait can push a surprising amount of water through a gap the width of a toonie.
 
@@ -124,7 +124,7 @@ It's the check Paul in Memramcook wishes he'd done sooner. His fill cap gasket h
 
 **Get eyes on an aging tank.** If your tank is past 15 years old, has visible rust at the seams, or has failed a paste test more than once, have it assessed before winter, not during it.
 
-Water in an oil tank is one of those problems that's cheap when you catch it and brutal when you don't. If you found water on the stick this week, or your furnace is doing something strange and you suspect the tank, call us at [(506) 802-3471](tel:+15068023471). We serve Moncton, Dieppe, Riverview, and the surrounding communities with free written estimates, and the emergency line answers around the clock.
+Water in an oil tank is one of those problems that's cheap when you catch it and brutal when you don't. If you found water on the stick this week, or your furnace is doing something strange and you suspect the tank, call us at [(506) 806-0900](tel:+15068060900). We serve Moncton, Dieppe, Riverview, and the surrounding communities with free written estimates, and the emergency line answers around the clock.
 
 ## Frequently Asked Questions
 

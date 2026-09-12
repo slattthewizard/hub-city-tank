@@ -25,7 +25,7 @@ Think of the report as your paper trail. It proves you acted responsibly the day
 
 For any spill in New Brunswick, the reporting number is 1-800-565-1633. It's answered 24 hours a day by the [Canadian Coast Guard](https://www.ccg-gcc.gc.ca/) regional operations centre, which takes spill reports for the Maritimes and notifies the New Brunswick [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html). One call covers your provincial reporting duty.
 
-And if oil is on the floor right now, deal with the tank at the same time you make that call. Our crew handles leaking tanks across Greater Moncton around the clock. Call [(506) 802-3471](tel:+15068023471) and we'll talk you through the first steps, then get a truck moving. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) page explains how those calls work.
+And if oil is on the floor right now, deal with the tank at the same time you make that call. Our crew handles leaking tanks across Greater Moncton around the clock. Call [(506) 806-0900](tel:+15068060900) and we'll talk you through the first steps, then get a truck moving. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) page explains how those calls work.
 
 When you dial the spill line, have a few basics ready:
 
@@ -97,7 +97,7 @@ Outdoor tanks deserve extra attention in our climate. Snow sliding off a roof ca
 
 If your tank is past 15 years, showing rust, or you simply don't know its age, replacing it on your schedule beats replacing it during an emergency in February. A planned [oil tank replacement](/oil-tank-replacement-moncton/) is a half-day job at a known price. A failure is a spill report, a cleanup bill, and a cold house all at once.
 
-We give free written estimates across Moncton, Dieppe, Riverview, and the surrounding communities, and we'll give you an honest read on whether your tank has years left or is living on borrowed time. Call [(506) 802-3471](tel:+15068023471) or [request your free written estimate](/#contact) and get the answer before your tank picks the timing for you.
+We give free written estimates across Moncton, Dieppe, Riverview, and the surrounding communities, and we'll give you an honest read on whether your tank has years left or is living on borrowed time. Call [(506) 806-0900](tel:+15068060900) or [request your free written estimate](/#contact) and get the answer before your tank picks the timing for you.
 
 ## Frequently Asked Questions
 

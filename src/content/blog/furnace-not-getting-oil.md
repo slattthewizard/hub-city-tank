@@ -33,7 +33,7 @@ Here's how to check the real level. Give the gauge glass a gentle tap first. If 
 
 If the tank really is empty, don't just order oil and mash the reset button. Running dry pulls sediment off the tank bottom into the line, so you'll often need a filter change and a proper bleed before the burner fires again. We cover the full restart process in our guide to [running out of heating oil](/blog/ran-out-of-heating-oil/), and if your gauge turned out to be the liar in this story, here's [how to test and fix a stuck gauge](/blog/oil-tank-gauge-not-working/).
 
-Not sure what you're looking at? [Call us at (506) 802-3471](tel:+15068023471) and we'll walk you through the tank check over the phone. Takes five minutes, costs nothing.
+Not sure what you're looking at? [Call us at (506) 806-0900](tel:+15068060900) and we'll walk you through the tank check over the phone. Takes five minutes, costs nothing.
 
 ## Check the Simple Stuff Before You Blame the Burner
 
@@ -108,7 +108,7 @@ A few signs the tank is the real problem:
 
 If several of those sound familiar, it's worth having someone look at the whole system instead of chasing parts. We're licensed and insured, we do this every day across Moncton, Dieppe, Riverview, and out to Shediac and Sackville, and our [oil tank replacement service](/oil-tank-replacement-moncton/) includes hauling away the old tank and setting up the new one to current code.
 
-One more thing, because it matters. If you ever find a wet stain, a drip, or a strong oil smell at the tank while you're tracing a no-heat problem, stop troubleshooting. That's not a furnace issue anymore, it's a leak. Close the shut-off valve if you can do it safely, keep ignition sources away, and call our [24/7 emergency oil tank line](/emergency-oil-tank-service-moncton/) at (506) 802-3471. Spills in New Brunswick must be reported to the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html), and acting fast is the difference between a cleanup measured in hundreds of dollars and one measured in tens of thousands.
+One more thing, because it matters. If you ever find a wet stain, a drip, or a strong oil smell at the tank while you're tracing a no-heat problem, stop troubleshooting. That's not a furnace issue anymore, it's a leak. Close the shut-off valve if you can do it safely, keep ignition sources away, and call our [24/7 emergency oil tank line](/emergency-oil-tank-service-moncton/) at (506) 806-0900. Spills in New Brunswick must be reported to the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html), and acting fast is the difference between a cleanup measured in hundreds of dollars and one measured in tens of thousands.
 
 ## Frequently Asked Questions
 

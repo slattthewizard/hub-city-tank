@@ -49,7 +49,7 @@ Marc, a homeowner in Dieppe, found this out last November. His delivery came whi
 
 Clearing the vent, testing the alarm, and fitting a new screened cap cost Marc $185. The fuel company charged him another $95 for the second trip. Two hundred and eighty dollars and two chilly nights, all over a wasp nest the size of a golf ball. He was lucky it happened in November instead of a February cold snap.
 
-If a driver has tagged your tank and refused to fill, don't wait for the next storm. Call us at [(506) 802-3471](tel:+15068023471) and we'll usually have the vent sorted within a day or two.
+If a driver has tagged your tank and refused to fill, don't wait for the next storm. Call us at [(506) 806-0900](tel:+15068060900) and we'll usually have the vent sorted within a day or two.
 
 ## What Makes an Oil Tank Whistle Go Quiet
 
@@ -109,7 +109,7 @@ Roger chose to replace the tank rather than gamble another season on it. His new
 
 That's the pattern worth remembering. If your tank is past 15 years old and the whistle, gauge, or fittings keep acting up, patching parts is treating symptoms. Our [oil tank replacement service](/oil-tank-replacement-moncton/) comes with a free written estimate, and most swaps are done in a single day, so you're never left without heat.
 
-Whether it's a silent vent or a tank on its last legs, we look after homeowners in Moncton, Dieppe, Riverview, and everywhere between Salisbury and Sackville. Call [(506) 802-3471](tel:+15068023471), day or night on the emergency line, or [request your free estimate](/#contact) and we'll listen to what your tank is telling you.
+Whether it's a silent vent or a tank on its last legs, we look after homeowners in Moncton, Dieppe, Riverview, and everywhere between Salisbury and Sackville. Call [(506) 806-0900](tel:+15068060900), day or night on the emergency line, or [request your free estimate](/#contact) and we'll listen to what your tank is telling you.
 
 ## Frequently Asked Questions
 

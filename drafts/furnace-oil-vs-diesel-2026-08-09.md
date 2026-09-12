@@ -25,7 +25,7 @@ The real differences boil down to three things:
 
 So when people ask about furnace oil vs diesel, they're mostly asking about colour, tax, and a few small specs, not two completely different fuels.
 
-The fuel is only half the story, though. The tank holding it matters just as much. If yours is old, rusty, or making your insurance company nervous, call Hub City Tank Co at [(506) 802-3471](tel:+15068023471) for a free written estimate. We're licensed, insured, and local to Greater Moncton.
+The fuel is only half the story, though. The tank holding it matters just as much. If yours is old, rusty, or making your insurance company nervous, call Hub City Tank Co at [(506) 806-0900](tel:+15068060900) for a free written estimate. We're licensed, insured, and local to Greater Moncton.
 
 ## What Is Furnace Oil, Exactly?
 
@@ -83,7 +83,7 @@ If you try the same thing, do it the safe way:
 3. **Wait 15 to 30 minutes** so any stirred-up sediment can settle before the burner draws fuel.
 4. **Press the burner reset button once.** Once only. Repeated resets can flood the chamber with unburned oil and create a dangerous restart.
 
-If the furnace won't fire after one reset, if you smell oil strongly, or if you see any wet spots near the tank or lines, stop there and call a professional. And if the tank drained faster than your usage explains, you may not have run out at all. You may have a leak, which is a different animal entirely. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line runs 24/7 for exactly that situation: [(506) 802-3471](tel:+15068023471).
+If the furnace won't fire after one reset, if you smell oil strongly, or if you see any wet spots near the tank or lines, stop there and call a professional. And if the tank drained faster than your usage explains, you may not have run out at all. You may have a leak, which is a different animal entirely. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line runs 24/7 for exactly that situation: [(506) 806-0900](tel:+15068060900).
 
 For the full playbook on empty-tank recovery, including bleeding the fuel line, see our guide on [what to do when you run out of heating oil](/blog/ran-out-of-heating-oil/).
 

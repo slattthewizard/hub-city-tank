@@ -23,7 +23,7 @@ The second is a scare. A wet spot on the concrete, a whiff of oil, a line of rus
 
 Danielle in Riverview got the letter last fall. Her steel tank was 24 years old, original to the house. She called us in a panic on a Tuesday, we quoted a double-bottom steel replacement at $2,850 installed, including hauling away the old tank, and she had a new tank and a compliance certificate before the weekend. Her renewal went through without another word from the insurer.
 
-Whichever door you came through, the fix is the same: pick the right tank, get it installed to code, and get the paperwork. If you want a straight answer on what your situation needs, call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact). No pressure, no jargon.
+Whichever door you came through, the fix is the same: pick the right tank, get it installed to code, and get the paperwork. If you want a straight answer on what your situation needs, call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact). No pressure, no jargon.
 
 ## Steel Oil Tanks: Pros and Cons
 
@@ -66,7 +66,7 @@ Here's what homeowners around Greater Moncton actually pay in 2026, in Canadian 
 
 Run the long math and the gap shrinks. A $2,600 steel tank replaced every 18 years costs about $144 a year. A $4,200 fibreglass tank over 30 years costs about $140 a year. Over a long ownership, fibreglass is roughly a wash on cost while removing most of the leak risk. If you'll sell within ten years, cheap steel usually wins on pure dollars.
 
-Every situation is a little different, which is why we do free written estimates. For the full picture of what drives a quote up or down, see our [oil tank replacement cost guide](/oil-tank-replacement-cost/), or call [(506) 802-3471](tel:+15068023471) and we'll price your exact setup over the phone.
+Every situation is a little different, which is why we do free written estimates. For the full picture of what drives a quote up or down, see our [oil tank replacement cost guide](/oil-tank-replacement-cost/), or call [(506) 806-0900](tel:+15068060900) and we'll price your exact setup over the phone.
 
 ## Lifespan, Insurance, and Resale: What Each Tank Means Down the Road
 
@@ -92,7 +92,7 @@ After hundreds of installs across Southeast New Brunswick, here's how we'd frame
 
 **Choose single-wall steel only if** budget is genuinely tight and the tank is indoors in a dry basement. It's a legitimate tank, just plan on replacing it sooner and expect insurers to ask about it earlier.
 
-And one safety note that matters more than any of the above. If your current tank is already leaking, smells strongly of oil, or has a visible wet patch underneath, stop comparing prices and get help today. Don't try to drain or move a compromised tank yourself; a tipped or split tank turns a contained problem into a contaminated yard. Our emergency line runs 24/7 for exactly this: [(506) 802-3471](tel:+15068023471). If it's not urgent, [book a free written estimate](/#contact) and we'll walk your options at the kitchen table.
+And one safety note that matters more than any of the above. If your current tank is already leaking, smells strongly of oil, or has a visible wet patch underneath, stop comparing prices and get help today. Don't try to drain or move a compromised tank yourself; a tipped or split tank turns a contained problem into a contaminated yard. Our emergency line runs 24/7 for exactly this: [(506) 806-0900](tel:+15068060900). If it's not urgent, [book a free written estimate](/#contact) and we'll walk your options at the kitchen table.
 
 ## Frequently Asked Questions
 

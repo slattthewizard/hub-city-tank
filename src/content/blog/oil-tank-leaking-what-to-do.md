@@ -25,7 +25,7 @@ If you've just spotted oil under your tank and you're searching "leaking oil tan
 
 Here's exactly what to do in the first hour, in order, plus the mistakes that turn a small problem into a big one.
 
-**If oil is actively dripping or you can smell it strongly right now, call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471). We answer around the clock for leaking-tank emergencies across Moncton, Dieppe, Riverview, and Southeast New Brunswick.**
+**If oil is actively dripping or you can smell it strongly right now, call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900). We answer around the clock for leaking-tank emergencies across Moncton, Dieppe, Riverview, and Southeast New Brunswick.**
 
 ## First, Make Sure It's Actually a Leak
 
@@ -79,7 +79,7 @@ A leaking tank doesn't get better. Steel doesn't heal, and the pinhole that's dr
 
 The same-day part matters. Oil keeps moving while you wait. It soaks deeper into concrete, finds cracks, and travels along footings. Our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) exists for exactly this situation: we pump down the tank, stabilize the leak, and hand you a free written estimate for replacement on the spot.
 
-**Found a leak after hours? That's what the emergency line is for. Call [(506) 802-3471](tel:+15068023471) any time, day or night.**
+**Found a leak after hours? That's what the emergency line is for. Call [(506) 806-0900](tel:+15068060900) any time, day or night.**
 
 ## What Not to Do With a Leaking Oil Tank
 
@@ -126,7 +126,7 @@ Finally, if oil got into concrete or soil, we'll tell you straight what needs pr
 
 Every estimate is free, written, and honoured. We're licensed and insured, and we work across Westmorland, Albert, and Kent counties, from Sackville to Salisbury to Shediac and everywhere between.
 
-**Ready for a straight answer about your tank? [Request your free written estimate](/#contact) or call [(506) 802-3471](tel:+15068023471). If it's leaking right now, say so, and we'll treat it as the emergency it is.**
+**Ready for a straight answer about your tank? [Request your free written estimate](/#contact) or call [(506) 806-0900](tel:+15068060900). If it's leaking right now, say so, and we'll treat it as the emergency it is.**
 
 ## Frequently Asked Questions
 

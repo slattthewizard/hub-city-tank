@@ -38,7 +38,7 @@ Simple things fail in simple ways. Here's what usually goes wrong:
 
 Age matters here too. If your tank is pushing 20 years or more, a lazy gauge is often the first sign of general wear rather than a one-off fluke. Not sure what vintage you're dealing with? Our guide on [how old your oil tank is](/blog/how-old-is-my-oil-tank/) shows you where to find the date stamp.
 
-Not sure what you're looking at on your own tank? Call Hub City Tank at [(506) 802-3471](tel:+15068023471) and describe what the gauge is doing. We'll tell you straight whether it sounds like a 20 dollar fix or something worth a site visit.
+Not sure what you're looking at on your own tank? Call Hub City Tank at [(506) 806-0900](tel:+15068060900) and describe what the gauge is doing. We'll tell you straight whether it sounds like a 20 dollar fix or something worth a site visit.
 
 ## Quick Checks for a Stuck Oil Tank Gauge
 
@@ -109,7 +109,7 @@ A few rules of thumb make the decision easier. If the tank is under 15 years old
 
 One more note for older properties. If your home once had a buried tank, or you suspect one is still down there, that's a different animal with its own environmental rules. The U.S. EPA's [underground storage tank program](https://www.epa.gov/ust) gives a good plain-language picture of why buried tanks get treated so seriously on both sides of the border.
 
-Whatever bucket you land in, don't ride out another winter on a gauge you can't trust. Call us any time at [(506) 802-3471](tel:+15068023471), day or night for leaking-tank emergencies, and we'll help you sort the small fixes from the real problems. Estimates are always free and always in writing.
+Whatever bucket you land in, don't ride out another winter on a gauge you can't trust. Call us any time at [(506) 806-0900](tel:+15068060900), day or night for leaking-tank emergencies, and we'll help you sort the small fixes from the real problems. Estimates are always free and always in writing.
 
 ## Frequently Asked Questions
 

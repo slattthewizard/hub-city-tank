@@ -28,7 +28,7 @@ A few other things speed up the damage:
 
 None of this happens overnight. A copper line can run 30 or 40 years without trouble. But when one fails, it fails silently, and cleanup costs make a new line look like pocket change.
 
-If you've spotted green crust on your line, a wet patch near the furnace, or an oil smell you can't trace, don't wait on it. Call us at [(506) 802-3471](tel:+15068023471) or [request a free written estimate](/#contact) and we'll tell you straight whether the line is fine, sleeveable, or done.
+If you've spotted green crust on your line, a wet patch near the furnace, or an oil smell you can't trace, don't wait on it. Call us at [(506) 806-0900](tel:+15068060900) or [request a free written estimate](/#contact) and we'll tell you straight whether the line is fine, sleeveable, or done.
 
 ## What Sleeving Actually Does (And What It Doesn't)
 
@@ -111,7 +111,7 @@ There's a bigger pattern behind that caution. In the US, the EPA's [underground 
 
 The line is also the natural time to look hard at the tank it's attached to. If your tank is 20-plus years old, it may make more sense to do [tank and line together](/oil-tank-replacement-moncton/) in one visit than to bolt a new line onto a tank that's next in line to fail.
 
-And if you ever find oil actively dripping from a line or fitting, don't wait for business hours. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line runs 24/7 at [(506) 802-3471](tel:+15068023471), and a fast response is the difference between a rag and a remediation crew.
+And if you ever find oil actively dripping from a line or fitting, don't wait for business hours. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) line runs 24/7 at [(506) 806-0900](tel:+15068060900), and a fast response is the difference between a rag and a remediation crew.
 
 ## Frequently Asked Questions
 

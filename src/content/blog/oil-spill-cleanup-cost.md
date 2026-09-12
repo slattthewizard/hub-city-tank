@@ -36,7 +36,7 @@ Here's where the money actually goes:
 
 On top of all that, New Brunswick requires spills to be reported and cleaned up to provincial standards. You don't get to decide the mess is "good enough." Our post on [how to report an oil spill in NB](/blog/report-oil-spill-nb/) covers that side of things in detail.
 
-If you have oil leaking right now, stop price-shopping and act. Call our 24/7 line at [(506) 802-3471](tel:+15068023471) or head to our [emergency oil tank service](/emergency-oil-tank-service-moncton/) page. And if you're staring at a drip and not sure how bad it is, read [what to do when your oil tank is leaking](/blog/oil-tank-leaking-what-to-do/) while you wait for help. The first hour matters more than anything else on this page.
+If you have oil leaking right now, stop price-shopping and act. Call our 24/7 line at [(506) 806-0900](tel:+15068060900) or head to our [emergency oil tank service](/emergency-oil-tank-service-moncton/) page. And if you're staring at a drip and not sure how bad it is, read [what to do when your oil tank is leaking](/blog/oil-tank-leaking-what-to-do/) while you wait for help. The first hour matters more than anything else on this page.
 
 ## Oil Spill Cleanup Cost Ranges: From a Small Drip to a Full Dig-Out
 
@@ -85,7 +85,7 @@ Numbers in a table are one thing. Here's how they play out in real kitchens and 
 
 Three households, three very different bills, one common thread: the earlier the problem was found, the smaller the number.
 
-Worried about which story your own tank is heading toward? Call Hub City Tank Co at [(506) 802-3471](tel:+15068023471) for a free written estimate, or reach our 24/7 line any time oil is where it shouldn't be. We'd rather help you spend $3,500 once than watch you spend $58,000 twice.
+Worried about which story your own tank is heading toward? Call Hub City Tank Co at [(506) 806-0900](tel:+15068060900) for a free written estimate, or reach our 24/7 line any time oil is where it shouldn't be. We'd rather help you spend $3,500 once than watch you spend $58,000 twice.
 
 ## Who Pays: Insurance, the Province, or You
 

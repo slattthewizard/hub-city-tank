@@ -21,7 +21,7 @@ The three broad possibilities are water, a minor oil drip, and a genuine tank le
 
 Only one of those three is an emergency. The other two are maintenance. So your first job isn't to panic, it's to identify what's actually on your floor.
 
-One safety note before we go further. If oil is visibly running or pooling, or you can smell it strongly through the house, skip the detective work. Slide an old bin or tray under the drip if you can do it without touching the tank, and call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471). A leaking tank is not a wait-until-Monday problem, and our [emergency oil tank service](/emergency-oil-tank-service-moncton/) exists for exactly this situation.
+One safety note before we go further. If oil is visibly running or pooling, or you can smell it strongly through the house, skip the detective work. Slide an old bin or tray under the drip if you can do it without touching the tank, and call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900). A leaking tank is not a wait-until-Monday problem, and our [emergency oil tank service](/emergency-oil-tank-service-moncton/) exists for exactly this situation.
 
 ## How to Tell If the Wet Spot Under Your Oil Tank Is Oil or Water
 
@@ -90,7 +90,7 @@ If the towel test says oil, here's your order of operations.
 5. **Call a professional.** This is where DIY ends. A licensed technician can check the fittings, inspect the shell, and tell you in one visit whether you're looking at a $200 fix or a tank replacement.
 6. **If oil has reached soil, a drain, or water, report it.** In New Brunswick, spills must be reported to the 24-hour environmental emergencies line at 1-800-565-1633, coordinated through the [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html). Reporting promptly protects you legally and usually keeps the cleanup smaller.
 
-If oil is actively leaking, our [step-by-step leaking tank guide](/blog/oil-tank-leaking-what-to-do/) covers the first hour in more detail. And whether it's a drip or a gusher, you can reach us around the clock at [(506) 802-3471](tel:+15068023471).
+If oil is actively leaking, our [step-by-step leaking tank guide](/blog/oil-tank-leaking-what-to-do/) covers the first hour in more detail. And whether it's a drip or a gusher, you can reach us around the clock at [(506) 806-0900](tel:+15068060900).
 
 ## Repair or Replace? How to Make the Call
 
@@ -120,4 +120,4 @@ It depends on your policy and, heavily, on the age and condition of the tank. Ma
 
 ### Who do I call if oil is actively leaking right now?
 
-Call Hub City Tank Co's 24/7 emergency line at (506) 802-3471 right away, and put a tray and absorbent material under the drip if you can do so safely. If oil has reached soil, a floor drain, or water, also call New Brunswick's environmental emergencies line at 1-800-565-1633. We serve Moncton, Dieppe, Riverview, and communities across Westmorland, Albert, and Kent counties.
+Call Hub City Tank Co's 24/7 emergency line at (506) 806-0900 right away, and put a tray and absorbent material under the drip if you can do so safely. If oil has reached soil, a floor drain, or water, also call New Brunswick's environmental emergencies line at 1-800-565-1633. We serve Moncton, Dieppe, Riverview, and communities across Westmorland, Albert, and Kent counties.

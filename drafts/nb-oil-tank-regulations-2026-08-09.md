@@ -23,7 +23,7 @@ That said, two provincial rules absolutely do apply to you. First, if your tank 
 
 **Your insurance company.** Legally speaking, your insurer isn't a regulator at all. Practically speaking, it's the strictest one you'll ever deal with. No provincial inspector is going to knock on your door about a 20 year old tank. Your insurance company will, and they'll put a deadline on it.
 
-Not sure where your tank stands with any of these three? Call us at [(506) 802-3471](tel:+15068023471). We'll take a look, tell you plainly what's fine and what isn't, and give you a free written estimate if anything needs doing.
+Not sure where your tank stands with any of these three? Call us at [(506) 806-0900](tel:+15068060900). We'll take a look, tell you plainly what's fine and what isn't, and give you a free written estimate if anything needs doing.
 
 ## The Installation Rules: What CSA B139 Means at Your House
 
@@ -63,7 +63,7 @@ Here's where provincial regulation stops being background noise and becomes very
 
 Just as important: you, the property owner, are responsible for the cleanup. Not the tank manufacturer, not the fuel company, you. Contaminated soil has to be excavated and disposed of properly, and if oil reaches a basement sump, a well, or a neighbour's property, the scope grows fast. Minor residential cleanups in our area commonly run $15,000 to $50,000. Serious ones, where oil has travelled, can pass $100,000. Whether your insurance covers any of that depends heavily on your policy and on how the leak happened.
 
-So what should you actually do if you smell oil or find a wet spot under the tank? Three things, in this order. Shut off the tank's supply valve if you can reach it safely. Report the spill. Then call a professional, because this is firmly past the DIY line. Soaking up a cup of oil with kitty litter is fine. Diagnosing why a tank is weeping through a rust blister is not. We keep a step-by-step guide in our post on [how to report an oil spill in New Brunswick](/blog/report-oil-spill-nb/), and our emergency line at [(506) 802-3471](tel:+15068023471) is answered 24/7 for leaking-tank calls.
+So what should you actually do if you smell oil or find a wet spot under the tank? Three things, in this order. Shut off the tank's supply valve if you can reach it safely. Report the spill. Then call a professional, because this is firmly past the DIY line. Soaking up a cup of oil with kitty litter is fine. Diagnosing why a tank is weeping through a rust blister is not. We keep a step-by-step guide in our post on [how to report an oil spill in New Brunswick](/blog/report-oil-spill-nb/), and our emergency line at [(506) 806-0900](tel:+15068060900) is answered 24/7 for leaking-tank calls.
 
 ## Buried Tanks Face the Strictest Scrutiny of All
 
@@ -102,7 +102,7 @@ In most Greater Moncton installations, you won't be pulling paperwork yourself. 
 
 ### What do I do if my oil tank is leaking right now?
 
-Close the tank's supply valve if you can do it safely, then report the spill to the 24-hour environmental emergencies line at 1-800-565-1633. Don't try to patch, drain, or move the tank yourself. Call our 24/7 emergency line at (506) 802-3471 and we'll walk you through the next steps and get someone out to you.
+Close the tank's supply valve if you can do it safely, then report the spill to the 24-hour environmental emergencies line at 1-800-565-1633. Don't try to patch, drain, or move the tank yourself. Call our 24/7 emergency line at (506) 806-0900 and we'll walk you through the next steps and get someone out to you.
 
 ### Can I remove my old oil tank myself?
 

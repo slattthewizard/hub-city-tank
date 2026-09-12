@@ -23,7 +23,7 @@ Second, the legs. Standard tank legs are narrow steel feet. On a proper pad they
 
 Third, the tip-over risk. A tank leaning past a certain point can go over in a windstorm, under a slab of snow sliding off the roof, or simply when the ground lets go in a thaw. A tipped tank almost always tears its fittings out. At that point you're not fixing a lean anymore, you're dealing with a spill, and spills are a different world of cost.
 
-If your tank is visibly leaning right now, don't sit on it. Call us at [(506) 802-3471](tel:+15068023471) and describe what you're seeing. We'll tell you straight whether it sounds urgent or whether it can safely wait for a scheduled visit. The call is free, and it's a lot cheaper than guessing wrong.
+If your tank is visibly leaning right now, don't sit on it. Call us at [(506) 806-0900](tel:+15068060900) and describe what you're seeing. We'll tell you straight whether it sounds urgent or whether it can safely wait for a scheduled visit. The call is free, and it's a lot cheaper than guessing wrong.
 
 ## What Makes Oil Tank Legs Sink Around Greater Moncton
 
@@ -90,7 +90,7 @@ We start with questions on the phone. How old is the tank, what's it sitting on,
 
 On site, we check the shell, legs, fittings, line, and base, then hand you a written estimate on the spot. If a re-level and a proper pad will genuinely solve it, that's what we'll quote. If the tank is near the end of its life, we'll show you why and walk you through [oil tank replacement](/oil-tank-replacement-moncton/), usually done in a single day with the old tank hauled away.
 
-We're licensed and insured, and we work across Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, and Sackville. If your tank is leaning, sinking, or sitting on a base you don't trust, call [(506) 802-3471](tel:+15068023471) today. If it's actively leaking or looks ready to go over, call that same number right now and say so. That's what the emergency line is for.
+We're licensed and insured, and we work across Moncton, Dieppe, Riverview, Shediac, Salisbury, Memramcook, and Sackville. If your tank is leaning, sinking, or sitting on a base you don't trust, call [(506) 806-0900](tel:+15068060900) today. If it's actively leaking or looks ready to go over, call that same number right now and say so. That's what the emergency line is for.
 
 ## Frequently Asked Questions
 

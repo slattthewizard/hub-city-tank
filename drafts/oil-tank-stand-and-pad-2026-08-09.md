@@ -25,7 +25,7 @@ And spreading the weight is the whole ballgame in our clay soils. Four small ste
 
 The Canadian installation code for oil systems, CSA B139, calls for a stable, non-combustible base for exactly these reasons. Insurance companies read that code closely. If your tank sits on bare ground or rotting timbers, an inspection can flag it, and some insurers won't renew your policy until it's corrected.
 
-Not sure what your tank is sitting on right now? [Call us at (506) 802-3471](tel:+15068023471) and we'll come take a look. The written estimate is free, and checking a base takes us about ten minutes.
+Not sure what your tank is sitting on right now? [Call us at (506) 806-0900](tel:+15068060900) and we'll come take a look. The written estimate is free, and checking a base takes us about ten minutes.
 
 ## Why Oil Tank Bases Fail Faster in Southeast New Brunswick
 
@@ -77,7 +77,7 @@ Denise in Riverview caught hers early this spring. After the thaw, she spotted a
 
 Rust on the legs deserves special mention because it hides. Steel scales from the inside corners of the angle iron and behind paint blisters, so a stand can look painted and solid while it's losing strength. Our post on [rust on oil tanks](/blog/rust-on-oil-tank/) explains which rust is cosmetic and which is structural, and the same logic applies to stands.
 
-Seeing a lean, a gap, or a wet spot right now? [Reach us through the contact form](/#contact) or call (506) 802-3471. If there's oil on the ground, use the same number, our emergency line is answered 24/7.
+Seeing a lean, a gap, or a wet spot right now? [Reach us through the contact form](/#contact) or call (506) 806-0900. If there's oil on the ground, use the same number, our emergency line is answered 24/7.
 
 ## What a Proper Oil Tank Base Costs in Greater Moncton
 
@@ -109,7 +109,7 @@ And here's where DIY ends. Never jack, pry, or shim a tank that has fuel in it. 
 
 If oil is already on the ground, it's a different phone call again. New Brunswick requires petroleum spills to be reported, and the province's [Department of Environment and Local Government](https://www2.gnb.ca/content/gnb/en/departments/elg.html) treats releases seriously because cleanup costs climb the longer oil sits in soil. If you want a sense of how seriously regulators everywhere take stored oil, the U.S. EPA runs an entire [spill prevention program](https://www.epa.gov/oil-spills-prevention-and-preparedness-regulations) for tanks just like these. Our [emergency oil tank service](/emergency-oil-tank-service-moncton/) covers leaking and fallen tanks anywhere in Westmorland, Albert, and Kent counties, day or night.
 
-A sound base is the cheapest insurance your heating system will ever get. If you can't remember the last time anyone looked under your tank, [book a free written estimate](/#contact) or call (506) 802-3471 and we'll tell you straight whether it needs work or just a photo every spring.
+A sound base is the cheapest insurance your heating system will ever get. If you can't remember the last time anyone looked under your tank, [book a free written estimate](/#contact) or call (506) 806-0900 and we'll tell you straight whether it needs work or just a photo every spring.
 
 ## Frequently Asked Questions
 

@@ -35,7 +35,7 @@ Cold does one more sneaky thing. Furnace oil starts to thicken, or gel, when an 
 
 And if you're near the coast, in Shediac or out toward Sackville, salt air speeds up outside corrosion on top of everything else. A tank that would last 20 years in Salisbury might not get there by the shore.
 
-None of this is meant to scare you. Every one of these problems has a cheap, boring fix if you catch it in the fall. If you'd rather have someone who does this every day take a look before the snow flies, [request a free written estimate](/#contact) or call us at [(506) 802-3471](tel:+15068023471). A fall inspection takes under an hour and the estimate costs you nothing.
+None of this is meant to scare you. Every one of these problems has a cheap, boring fix if you catch it in the fall. If you'd rather have someone who does this every day take a look before the snow flies, [request a free written estimate](/#contact) or call us at [(506) 806-0900](tel:+15068060900). A fall inspection takes under an hour and the estimate costs you nothing.
 
 ## Your Oil Tank Winter Prep Checklist
 
@@ -122,7 +122,7 @@ Stop and call a professional if you find any of these:
 
 Don't tighten fittings on a weeping tank, don't patch anything with epoxy from the hardware store, and don't drain a tank yourself. Oil work in New Brunswick is regulated for good reason, and a well-meaning fix can turn a $200 problem into a contaminated-soil problem.
 
-If you find something that's actively leaking, treat it as urgent no matter the hour. Our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) runs 24/7 for exactly this, and calling at 2 a.m. is always cheaper than waiting until 8. For everything less urgent, watch the forecast at [Environment Canada](https://weather.gc.ca/) and get your prep booked before the first real cold stretch. Call [(506) 802-3471](tel:+15068023471) and we'll walk through it with you, no pressure, free written estimate every time.
+If you find something that's actively leaking, treat it as urgent no matter the hour. Our [emergency oil tank service in Moncton](/emergency-oil-tank-service-moncton/) runs 24/7 for exactly this, and calling at 2 a.m. is always cheaper than waiting until 8. For everything less urgent, watch the forecast at [Environment Canada](https://weather.gc.ca/) and get your prep booked before the first real cold stretch. Call [(506) 806-0900](tel:+15068060900) and we'll walk through it with you, no pressure, free written estimate every time.
 
 ## Frequently Asked Questions
 

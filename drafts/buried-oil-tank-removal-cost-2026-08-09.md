@@ -32,7 +32,7 @@ Every one of those ranges assumes a licensed contractor doing the work properly:
 
 Marc in Dieppe is a good example of the simple end. He bought a 1960s bungalow last spring, spotted a capped pipe beside the foundation, and called us to scan the yard. We found a 900 litre tank under the flower bed, four feet down, dry as a bone inside. Total cost including the scan, removal, soil samples, and backfill: $4,100.
 
-If you've found a suspicious pipe and want to know what you're dealing with before anything else, call us at [(506) 802-3471](tel:+15068023471). The scan is quick, the estimate is free and in writing, and knowing beats guessing.
+If you've found a suspicious pipe and want to know what you're dealing with before anything else, call us at [(506) 806-0900](tel:+15068060900). The scan is quick, the estimate is free and in writing, and knowing beats guessing.
 
 ## Why Buried Tanks Cost More Than Above-Ground Removals
 
@@ -72,7 +72,7 @@ Earl in Sackville went through this two winters ago. His buried tank had a pinho
 
 The one piece of good news: catching it during a planned removal is far cheaper than catching it after oil reaches a basement, a well, or a neighbour's property. The US EPA's research on [underground storage tanks](https://www.epa.gov/ust) shows why regulators everywhere push to get old single-wall steel tanks out of the ground: the longer they sit, the more likely they fail. We've broken down real cleanup numbers in our guide to [oil spill cleanup cost](/blog/oil-spill-cleanup-cost/). And check your policy wording before you assume insurance will help, because many policies exclude gradual seepage from old buried tanks.
 
-If you ever smell oil near an old fill pipe or see sheen in a wet spot in the yard, stop there. Don't dig, don't investigate with a shovel, and don't run a pump. Call our 24/7 emergency line at [(506) 802-3471](tel:+15068023471) and let a licensed crew assess it safely.
+If you ever smell oil near an old fill pipe or see sheen in a wet spot in the yard, stop there. Don't dig, don't investigate with a shovel, and don't run a pump. Call our 24/7 emergency line at [(506) 806-0900](tel:+15068060900) and let a licensed crew assess it safely.
 
 ## Removal vs Abandoning the Buried Tank in Place
 
@@ -100,7 +100,7 @@ You can't change where the tank sits, but you can control a few things that keep
 
 **Think about what comes next.** If the buried tank was still feeding your furnace, you'll need a new above-ground tank before heating season. Bundling the removal with a modern double-wall installation through our [oil tank replacement service in Moncton](/oil-tank-replacement-moncton/) is usually cheaper than booking them separately, and it keeps you on one timeline.
 
-Every buried tank job we quote starts with a free written estimate and a straight answer about what could change the number. [Request yours here](/#contact) or call (506) 802-3471, and we'll tell you exactly what's under your lawn and what it'll cost to deal with it.
+Every buried tank job we quote starts with a free written estimate and a straight answer about what could change the number. [Request yours here](/#contact) or call (506) 806-0900, and we'll tell you exactly what's under your lawn and what it'll cost to deal with it.
 
 ## Frequently Asked Questions
 

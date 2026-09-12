@@ -53,7 +53,7 @@ That's what happened to the Melansons in Memramcook. Their insurer refused cover
 
 So make the calls early. As soon as your offer is accepted, tell your insurance broker the house has oil heat and give them the tank's age. If the answer is "we'll need a new tank," you still have your condition period to negotiate who pays for it.
 
-Need a written quote fast for an insurer or a lender? Call us at [(506) 802-3471](tel:+15068023471). We put every estimate in writing at no charge, and insurers accept them.
+Need a written quote fast for an insurer or a lender? Call us at [(506) 806-0900](tel:+15068060900). We put every estimate in writing at no charge, and insurers accept them.
 
 ## Buried Tanks: The Question Worth Asking Twice
 
@@ -98,7 +98,7 @@ Third, get your insurance answer in writing before you waive conditions. A quick
 
 Fourth, if the tank fails any of these checks, negotiate rather than walk. Ask for a price reduction, a closing credit, or a replacement completed before possession. Sellers know every other buyer will hit the same wall, so a reasonable ask usually lands. And if you end up dealing with a buried tank, our [buried oil tank removal crew in Moncton](/buried-oil-tank-removal-moncton/) handles the dig, the disposal, and the paperwork insurers want to see.
 
-Buying in the Moncton area and not sure what you're looking at? [Send us a photo of the tank and its data plate](/#contact), or call [(506) 802-3471](tel:+15068023471). We'll tell you the age, the condition, and what it should cost to fix, in writing, for free. It's the cheapest insurance you'll buy all year.
+Buying in the Moncton area and not sure what you're looking at? [Send us a photo of the tank and its data plate](/#contact), or call [(506) 806-0900](tel:+15068060900). We'll tell you the age, the condition, and what it should cost to fix, in writing, for free. It's the cheapest insurance you'll buy all year.
 
 ## Frequently Asked Questions
 
