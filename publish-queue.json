@@ -211,7 +211,8 @@
   },
   {
     "draft": "drafts/ran-out-of-heating-oil-2026-08-09.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-13T17:46:53.918960Z"
   },
   {
     "draft": "drafts/report-oil-spill-nb-2026-08-09.md",
