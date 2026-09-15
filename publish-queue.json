@@ -221,7 +221,8 @@
   },
   {
     "draft": "drafts/residential-oil-tank-sizes-2026-08-09.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-15T18:34:32.599826Z"
   },
   {
     "draft": "drafts/rust-on-oil-tank-2026-08-09.md",
