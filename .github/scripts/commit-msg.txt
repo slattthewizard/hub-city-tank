@@ -1,1 +1,1 @@
-Publish blog post: residential-oil-tank-sizes
+Publish blog post: rust-on-oil-tank
