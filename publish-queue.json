@@ -316,7 +316,8 @@
   },
   {
     "draft": "drafts/oil-delivery-refused-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-12T22:18:28.456458Z"
   },
   {
     "draft": "drafts/oil-tank-overfill-delivery-spill-2026-09-29.md",
