@@ -321,7 +321,8 @@
   },
   {
     "draft": "drafts/oil-tank-overfill-delivery-spill-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-13T20:25:34.180549Z"
   },
   {
     "draft": "drafts/small-oil-tank-backup-heat-2026-09-29.md",
