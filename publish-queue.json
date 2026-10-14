@@ -326,7 +326,8 @@
   },
   {
     "draft": "drafts/small-oil-tank-backup-heat-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-14T19:02:41.633196Z"
   },
   {
     "draft": "drafts/dual-fuel-heat-pump-oil-backup-2026-09-29.md",
