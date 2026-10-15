@@ -331,7 +331,8 @@
   },
   {
     "draft": "drafts/dual-fuel-heat-pump-oil-backup-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-15T18:45:50.229116Z"
   },
   {
     "draft": "drafts/ohpa-program-closed-what-now-2026-09-29.md",
