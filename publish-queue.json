@@ -481,7 +481,8 @@
   },
   {
     "draft": "drafts/oil-tank-chart-how-much-oil-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-14T19:35:03.077286Z"
   },
   {
     "draft": "drafts/oil-tank-level-monitor-2026-09-29.md",
