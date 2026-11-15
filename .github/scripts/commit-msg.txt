@@ -1,1 +1,1 @@
-Publish blog post: oil-tank-chart-how-much-oil
+Publish blog post: oil-tank-level-monitor

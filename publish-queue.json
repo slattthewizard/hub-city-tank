@@ -486,7 +486,8 @@
   },
   {
     "draft": "drafts/oil-tank-level-monitor-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-15T20:01:41.649298Z"
   },
   {
     "draft": "drafts/oil-tank-filter-2026-09-29.md",
